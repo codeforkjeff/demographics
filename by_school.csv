@@ -1,0 +1,1373 @@
+name,district,school,role,type,demographic,demographic_count,percent,total
+2016-2017,"Auburn School District","Alpac Elementary School",Student,Gender,Female,282,0.49,578
+2016-2017,"Auburn School District","Alpac Elementary School",Student,Gender,Male,296,0.51,578
+2016-2017,"Auburn School District","Alpac Elementary School",Student,Hispanic,Hispanic,163,0.28,578
+2016-2017,"Auburn School District","Alpac Elementary School",Student,Race,"American Indian or Alaska Native",1,0.00,578
+2016-2017,"Auburn School District","Alpac Elementary School",Student,Race,Asian,55,0.10,578
+2016-2017,"Auburn School District","Alpac Elementary School",Student,Race,"Black or African American",19,0.03,578
+2016-2017,"Auburn School District","Alpac Elementary School",Student,Race,"Native Hawaiian or Other Pacific Islander",12,0.02,578
+2016-2017,"Auburn School District","Alpac Elementary School",Student,Race,"Two or more races",77,0.13,578
+2016-2017,"Auburn School District","Alpac Elementary School",Student,Race,White,251,0.43,578
+2016-2017,"Auburn School District","Alpac Elementary School",Teacher,Gender,Female,35,0.88,40
+2016-2017,"Auburn School District","Alpac Elementary School",Teacher,Gender,Male,5,0.13,40
+2016-2017,"Auburn School District","Alpac Elementary School",Teacher,Hispanic,Hispanic,2,0.05,40
+2016-2017,"Auburn School District","Alpac Elementary School",Teacher,Race,"American Indian or Alaska Native",1,0.03,40
+2016-2017,"Auburn School District","Alpac Elementary School",Teacher,Race,Asian,1,0.03,40
+2016-2017,"Auburn School District","Alpac Elementary School",Teacher,Race,"Black or African American",1,0.03,40
+2016-2017,"Auburn School District","Alpac Elementary School",Teacher,Race,White,39,0.98,40
+2016-2017,"Auburn School District","Arthur Jacobsen Elementary",Student,Gender,Female,296,0.51,575
+2016-2017,"Auburn School District","Arthur Jacobsen Elementary",Student,Gender,Male,279,0.49,575
+2016-2017,"Auburn School District","Arthur Jacobsen Elementary",Student,Hispanic,Hispanic,130,0.23,575
+2016-2017,"Auburn School District","Arthur Jacobsen Elementary",Student,Race,"American Indian or Alaska Native",0,0.00,575
+2016-2017,"Auburn School District","Arthur Jacobsen Elementary",Student,Race,Asian,82,0.14,575
+2016-2017,"Auburn School District","Arthur Jacobsen Elementary",Student,Race,"Black or African American",37,0.06,575
+2016-2017,"Auburn School District","Arthur Jacobsen Elementary",Student,Race,"Native Hawaiian or Other Pacific Islander",2,0.00,575
+2016-2017,"Auburn School District","Arthur Jacobsen Elementary",Student,Race,"Two or more races",53,0.09,575
+2016-2017,"Auburn School District","Arthur Jacobsen Elementary",Student,Race,White,271,0.47,575
+2016-2017,"Auburn School District","Arthur Jacobsen Elementary",Teacher,Gender,Female,32,0.82,39
+2016-2017,"Auburn School District","Arthur Jacobsen Elementary",Teacher,Gender,Male,7,0.18,39
+2016-2017,"Auburn School District","Arthur Jacobsen Elementary",Teacher,Hispanic,Hispanic,1,0.03,39
+2016-2017,"Auburn School District","Arthur Jacobsen Elementary",Teacher,Race,"American Indian or Alaska Native",1,0.03,39
+2016-2017,"Auburn School District","Arthur Jacobsen Elementary",Teacher,Race,"Black or African American",1,0.03,39
+2016-2017,"Auburn School District","Arthur Jacobsen Elementary",Teacher,Race,White,36,0.92,39
+2016-2017,"Auburn School District","Auburn Mountainview High School",Student,Gender,Female,780,0.51,1517
+2016-2017,"Auburn School District","Auburn Mountainview High School",Student,Gender,Male,737,0.49,1517
+2016-2017,"Auburn School District","Auburn Mountainview High School",Student,Hispanic,Hispanic,247,0.16,1517
+2016-2017,"Auburn School District","Auburn Mountainview High School",Student,Race,"American Indian or Alaska Native",13,0.01,1517
+2016-2017,"Auburn School District","Auburn Mountainview High School",Student,Race,Asian,164,0.11,1517
+2016-2017,"Auburn School District","Auburn Mountainview High School",Student,Race,"Black or African American",151,0.10,1517
+2016-2017,"Auburn School District","Auburn Mountainview High School",Student,Race,"Native Hawaiian or Other Pacific Islander",25,0.02,1517
+2016-2017,"Auburn School District","Auburn Mountainview High School",Student,Race,"Two or more races",111,0.07,1517
+2016-2017,"Auburn School District","Auburn Mountainview High School",Student,Race,White,806,0.53,1517
+2016-2017,"Auburn School District","Auburn Mountainview High School",Teacher,Gender,Female,46,0.62,74
+2016-2017,"Auburn School District","Auburn Mountainview High School",Teacher,Gender,Male,28,0.38,74
+2016-2017,"Auburn School District","Auburn Mountainview High School",Teacher,Hispanic,Hispanic,1,0.01,74
+2016-2017,"Auburn School District","Auburn Mountainview High School",Teacher,Race,Asian,4,0.05,74
+2016-2017,"Auburn School District","Auburn Mountainview High School",Teacher,Race,"Black or African American",2,0.03,74
+2016-2017,"Auburn School District","Auburn Mountainview High School",Teacher,Race,"Native Hawaiian or Other Pacific Islander",2,0.03,74
+2016-2017,"Auburn School District","Auburn Mountainview High School",Teacher,Race,White,67,0.91,74
+2016-2017,"Auburn School District","Auburn Riverside High School",Student,Gender,Female,859,0.52,1639
+2016-2017,"Auburn School District","Auburn Riverside High School",Student,Gender,Male,780,0.48,1639
+2016-2017,"Auburn School District","Auburn Riverside High School",Student,Hispanic,Hispanic,425,0.26,1639
+2016-2017,"Auburn School District","Auburn Riverside High School",Student,Race,"American Indian or Alaska Native",7,0.00,1639
+2016-2017,"Auburn School District","Auburn Riverside High School",Student,Race,Asian,174,0.11,1639
+2016-2017,"Auburn School District","Auburn Riverside High School",Student,Race,"Black or African American",85,0.05,1639
+2016-2017,"Auburn School District","Auburn Riverside High School",Student,Race,"Native Hawaiian or Other Pacific Islander",41,0.03,1639
+2016-2017,"Auburn School District","Auburn Riverside High School",Student,Race,"Two or more races",115,0.07,1639
+2016-2017,"Auburn School District","Auburn Riverside High School",Student,Race,White,792,0.48,1639
+2016-2017,"Auburn School District","Auburn Riverside High School",Teacher,Gender,Female,38,0.48,79
+2016-2017,"Auburn School District","Auburn Riverside High School",Teacher,Gender,Male,41,0.52,79
+2016-2017,"Auburn School District","Auburn Riverside High School",Teacher,Hispanic,Hispanic,3,0.04,79
+2016-2017,"Auburn School District","Auburn Riverside High School",Teacher,Race,"American Indian or Alaska Native",2,0.03,79
+2016-2017,"Auburn School District","Auburn Riverside High School",Teacher,Race,Asian,2,0.03,79
+2016-2017,"Auburn School District","Auburn Riverside High School",Teacher,Race,"Black or African American",5,0.06,79
+2016-2017,"Auburn School District","Auburn Riverside High School",Teacher,Race,"Native Hawaiian or Other Pacific Islander",1,0.01,79
+2016-2017,"Auburn School District","Auburn Riverside High School",Teacher,Race,White,70,0.89,79
+2016-2017,"Auburn School District","Auburn Senior High School",Student,Gender,Female,796,0.47,1696
+2016-2017,"Auburn School District","Auburn Senior High School",Student,Gender,Male,900,0.53,1696
+2016-2017,"Auburn School District","Auburn Senior High School",Student,Hispanic,Hispanic,507,0.30,1696
+2016-2017,"Auburn School District","Auburn Senior High School",Student,Race,"American Indian or Alaska Native",46,0.03,1696
+2016-2017,"Auburn School District","Auburn Senior High School",Student,Race,Asian,105,0.06,1696
+2016-2017,"Auburn School District","Auburn Senior High School",Student,Race,"Black or African American",149,0.09,1696
+2016-2017,"Auburn School District","Auburn Senior High School",Student,Race,"Native Hawaiian or Other Pacific Islander",88,0.05,1696
+2016-2017,"Auburn School District","Auburn Senior High School",Student,Race,"Two or more races",136,0.08,1696
+2016-2017,"Auburn School District","Auburn Senior High School",Student,Race,White,665,0.39,1696
+2016-2017,"Auburn School District","Auburn Senior High School",Teacher,Gender,Female,51,0.54,95
+2016-2017,"Auburn School District","Auburn Senior High School",Teacher,Gender,Male,44,0.46,95
+2016-2017,"Auburn School District","Auburn Senior High School",Teacher,Hispanic,Hispanic,1,0.01,95
+2016-2017,"Auburn School District","Auburn Senior High School",Teacher,Race,"American Indian or Alaska Native",1,0.01,95
+2016-2017,"Auburn School District","Auburn Senior High School",Teacher,Race,Asian,1,0.01,95
+2016-2017,"Auburn School District","Auburn Senior High School",Teacher,Race,"Black or African American",2,0.02,95
+2016-2017,"Auburn School District","Auburn Senior High School",Teacher,Race,White,91,0.96,95
+2016-2017,"Auburn School District","Cascade Middle School",Student,Gender,Female,367,0.51,726
+2016-2017,"Auburn School District","Cascade Middle School",Student,Gender,Male,359,0.49,726
+2016-2017,"Auburn School District","Cascade Middle School",Student,Hispanic,Hispanic,182,0.25,726
+2016-2017,"Auburn School District","Cascade Middle School",Student,Race,"American Indian or Alaska Native",3,0.00,726
+2016-2017,"Auburn School District","Cascade Middle School",Student,Race,Asian,66,0.09,726
+2016-2017,"Auburn School District","Cascade Middle School",Student,Race,"Black or African American",78,0.11,726
+2016-2017,"Auburn School District","Cascade Middle School",Student,Race,"Native Hawaiian or Other Pacific Islander",30,0.04,726
+2016-2017,"Auburn School District","Cascade Middle School",Student,Race,"Two or more races",56,0.08,726
+2016-2017,"Auburn School District","Cascade Middle School",Student,Race,White,311,0.43,726
+2016-2017,"Auburn School District","Cascade Middle School",Teacher,Gender,Female,23,0.52,44
+2016-2017,"Auburn School District","Cascade Middle School",Teacher,Gender,Male,21,0.48,44
+2016-2017,"Auburn School District","Cascade Middle School",Teacher,Hispanic,Hispanic,2,0.05,44
+2016-2017,"Auburn School District","Cascade Middle School",Teacher,Race,Asian,1,0.02,44
+2016-2017,"Auburn School District","Cascade Middle School",Teacher,Race,"Black or African American",4,0.09,44
+2016-2017,"Auburn School District","Cascade Middle School",Teacher,Race,White,39,0.89,44
+2016-2017,"Auburn School District","Chinook Elementary School",Student,Gender,Female,223,0.44,505
+2016-2017,"Auburn School District","Chinook Elementary School",Student,Gender,Male,282,0.56,505
+2016-2017,"Auburn School District","Chinook Elementary School",Student,Hispanic,Hispanic,203,0.40,505
+2016-2017,"Auburn School District","Chinook Elementary School",Student,Race,"American Indian or Alaska Native",62,0.12,505
+2016-2017,"Auburn School District","Chinook Elementary School",Student,Race,Asian,17,0.03,505
+2016-2017,"Auburn School District","Chinook Elementary School",Student,Race,"Black or African American",35,0.07,505
+2016-2017,"Auburn School District","Chinook Elementary School",Student,Race,"Native Hawaiian or Other Pacific Islander",26,0.05,505
+2016-2017,"Auburn School District","Chinook Elementary School",Student,Race,"Two or more races",55,0.11,505
+2016-2017,"Auburn School District","Chinook Elementary School",Student,Race,White,107,0.21,505
+2016-2017,"Auburn School District","Chinook Elementary School",Teacher,Gender,Female,32,0.94,34
+2016-2017,"Auburn School District","Chinook Elementary School",Teacher,Gender,Male,2,0.06,34
+2016-2017,"Auburn School District","Chinook Elementary School",Teacher,Hispanic,Hispanic,3,0.09,34
+2016-2017,"Auburn School District","Chinook Elementary School",Teacher,Race,"American Indian or Alaska Native",2,0.06,34
+2016-2017,"Auburn School District","Chinook Elementary School",Teacher,Race,"Black or African American",1,0.03,34
+2016-2017,"Auburn School District","Chinook Elementary School",Teacher,Race,"Native Hawaiian or Other Pacific Islander",1,0.03,34
+2016-2017,"Auburn School District","Chinook Elementary School",Teacher,Race,White,29,0.85,34
+2016-2017,"Auburn School District","Dick Scobee Elementary School",Student,Gender,Female,267,0.50,533
+2016-2017,"Auburn School District","Dick Scobee Elementary School",Student,Gender,Male,266,0.50,533
+2016-2017,"Auburn School District","Dick Scobee Elementary School",Student,Hispanic,Hispanic,160,0.30,533
+2016-2017,"Auburn School District","Dick Scobee Elementary School",Student,Race,"American Indian or Alaska Native",1,0.00,533
+2016-2017,"Auburn School District","Dick Scobee Elementary School",Student,Race,Asian,29,0.05,533
+2016-2017,"Auburn School District","Dick Scobee Elementary School",Student,Race,"Black or African American",52,0.10,533
+2016-2017,"Auburn School District","Dick Scobee Elementary School",Student,Race,"Native Hawaiian or Other Pacific Islander",25,0.05,533
+2016-2017,"Auburn School District","Dick Scobee Elementary School",Student,Race,"Two or more races",71,0.13,533
+2016-2017,"Auburn School District","Dick Scobee Elementary School",Student,Race,White,195,0.37,533
+2016-2017,"Auburn School District","Dick Scobee Elementary School",Teacher,Gender,Female,36,0.90,40
+2016-2017,"Auburn School District","Dick Scobee Elementary School",Teacher,Gender,Male,4,0.10,40
+2016-2017,"Auburn School District","Dick Scobee Elementary School",Teacher,Hispanic,Hispanic,2,0.05,40
+2016-2017,"Auburn School District","Dick Scobee Elementary School",Teacher,Race,"Black or African American",1,0.03,40
+2016-2017,"Auburn School District","Dick Scobee Elementary School",Teacher,Race,White,39,0.98,40
+2016-2017,"Auburn School District","Evergreen Heights Elementary",Student,Gender,Female,252,0.50,507
+2016-2017,"Auburn School District","Evergreen Heights Elementary",Student,Gender,Male,255,0.50,507
+2016-2017,"Auburn School District","Evergreen Heights Elementary",Student,Hispanic,Hispanic,99,0.20,507
+2016-2017,"Auburn School District","Evergreen Heights Elementary",Student,Race,"American Indian or Alaska Native",0,0.00,507
+2016-2017,"Auburn School District","Evergreen Heights Elementary",Student,Race,Asian,83,0.16,507
+2016-2017,"Auburn School District","Evergreen Heights Elementary",Student,Race,"Black or African American",46,0.09,507
+2016-2017,"Auburn School District","Evergreen Heights Elementary",Student,Race,"Native Hawaiian or Other Pacific Islander",14,0.03,507
+2016-2017,"Auburn School District","Evergreen Heights Elementary",Student,Race,"Two or more races",76,0.15,507
+2016-2017,"Auburn School District","Evergreen Heights Elementary",Student,Race,White,189,0.37,507
+2016-2017,"Auburn School District","Evergreen Heights Elementary",Teacher,Gender,Female,31,0.91,34
+2016-2017,"Auburn School District","Evergreen Heights Elementary",Teacher,Gender,Male,3,0.09,34
+2016-2017,"Auburn School District","Evergreen Heights Elementary",Teacher,Hispanic,Hispanic,1,0.03,34
+2016-2017,"Auburn School District","Evergreen Heights Elementary",Teacher,Race,Asian,1,0.03,34
+2016-2017,"Auburn School District","Evergreen Heights Elementary",Teacher,Race,White,33,0.97,34
+2016-2017,"Auburn School District","Gildo Rey Elementary School",Student,Gender,Female,300,0.49,617
+2016-2017,"Auburn School District","Gildo Rey Elementary School",Student,Gender,Male,317,0.51,617
+2016-2017,"Auburn School District","Gildo Rey Elementary School",Student,Hispanic,Hispanic,349,0.57,617
+2016-2017,"Auburn School District","Gildo Rey Elementary School",Student,Race,"American Indian or Alaska Native",2,0.00,617
+2016-2017,"Auburn School District","Gildo Rey Elementary School",Student,Race,Asian,28,0.05,617
+2016-2017,"Auburn School District","Gildo Rey Elementary School",Student,Race,"Black or African American",21,0.03,617
+2016-2017,"Auburn School District","Gildo Rey Elementary School",Student,Race,"Native Hawaiian or Other Pacific Islander",38,0.06,617
+2016-2017,"Auburn School District","Gildo Rey Elementary School",Student,Race,"Two or more races",53,0.09,617
+2016-2017,"Auburn School District","Gildo Rey Elementary School",Student,Race,White,126,0.20,617
+2016-2017,"Auburn School District","Gildo Rey Elementary School",Teacher,Gender,Female,37,0.88,42
+2016-2017,"Auburn School District","Gildo Rey Elementary School",Teacher,Gender,Male,5,0.12,42
+2016-2017,"Auburn School District","Gildo Rey Elementary School",Teacher,Hispanic,Hispanic,5,0.12,42
+2016-2017,"Auburn School District","Gildo Rey Elementary School",Teacher,Race,Asian,2,0.05,42
+2016-2017,"Auburn School District","Gildo Rey Elementary School",Teacher,Race,"Black or African American",1,0.02,42
+2016-2017,"Auburn School District","Gildo Rey Elementary School",Teacher,Race,White,39,0.93,42
+2016-2017,"Auburn School District","Hazelwood Elementary School",Student,Gender,Female,273,0.49,560
+2016-2017,"Auburn School District","Hazelwood Elementary School",Student,Gender,Male,287,0.51,560
+2016-2017,"Auburn School District","Hazelwood Elementary School",Student,Hispanic,Hispanic,169,0.30,560
+2016-2017,"Auburn School District","Hazelwood Elementary School",Student,Race,"American Indian or Alaska Native",7,0.01,560
+2016-2017,"Auburn School District","Hazelwood Elementary School",Student,Race,Asian,40,0.07,560
+2016-2017,"Auburn School District","Hazelwood Elementary School",Student,Race,"Black or African American",18,0.03,560
+2016-2017,"Auburn School District","Hazelwood Elementary School",Student,Race,"Native Hawaiian or Other Pacific Islander",10,0.02,560
+2016-2017,"Auburn School District","Hazelwood Elementary School",Student,Race,"Two or more races",48,0.09,560
+2016-2017,"Auburn School District","Hazelwood Elementary School",Student,Race,White,268,0.48,560
+2016-2017,"Auburn School District","Hazelwood Elementary School",Teacher,Gender,Female,28,0.85,33
+2016-2017,"Auburn School District","Hazelwood Elementary School",Teacher,Gender,Male,5,0.15,33
+2016-2017,"Auburn School District","Hazelwood Elementary School",Teacher,Race,White,33,1.00,33
+2016-2017,"Auburn School District","Ilalko Elementary School",Student,Gender,Female,312,0.51,607
+2016-2017,"Auburn School District","Ilalko Elementary School",Student,Gender,Male,295,0.49,607
+2016-2017,"Auburn School District","Ilalko Elementary School",Student,Hispanic,Hispanic,195,0.32,607
+2016-2017,"Auburn School District","Ilalko Elementary School",Student,Race,"American Indian or Alaska Native",3,0.00,607
+2016-2017,"Auburn School District","Ilalko Elementary School",Student,Race,Asian,61,0.10,607
+2016-2017,"Auburn School District","Ilalko Elementary School",Student,Race,"Black or African American",23,0.04,607
+2016-2017,"Auburn School District","Ilalko Elementary School",Student,Race,"Native Hawaiian or Other Pacific Islander",21,0.03,607
+2016-2017,"Auburn School District","Ilalko Elementary School",Student,Race,"Two or more races",89,0.15,607
+2016-2017,"Auburn School District","Ilalko Elementary School",Student,Race,White,215,0.35,607
+2016-2017,"Auburn School District","Ilalko Elementary School",Teacher,Gender,Female,29,0.83,35
+2016-2017,"Auburn School District","Ilalko Elementary School",Teacher,Gender,Male,6,0.17,35
+2016-2017,"Auburn School District","Ilalko Elementary School",Teacher,Race,"American Indian or Alaska Native",2,0.06,35
+2016-2017,"Auburn School District","Ilalko Elementary School",Teacher,Race,"Native Hawaiian or Other Pacific Islander",2,0.06,35
+2016-2017,"Auburn School District","Ilalko Elementary School",Teacher,Race,White,33,0.94,35
+2016-2017,"Auburn School District","Lake View Elementary School",Student,Gender,Female,198,0.47,423
+2016-2017,"Auburn School District","Lake View Elementary School",Student,Gender,Male,225,0.53,423
+2016-2017,"Auburn School District","Lake View Elementary School",Student,Hispanic,Hispanic,69,0.16,423
+2016-2017,"Auburn School District","Lake View Elementary School",Student,Race,"American Indian or Alaska Native",2,0.00,423
+2016-2017,"Auburn School District","Lake View Elementary School",Student,Race,Asian,10,0.02,423
+2016-2017,"Auburn School District","Lake View Elementary School",Student,Race,"Black or African American",5,0.01,423
+2016-2017,"Auburn School District","Lake View Elementary School",Student,Race,"Native Hawaiian or Other Pacific Islander",1,0.00,423
+2016-2017,"Auburn School District","Lake View Elementary School",Student,Race,"Two or more races",41,0.10,423
+2016-2017,"Auburn School District","Lake View Elementary School",Student,Race,White,295,0.70,423
+2016-2017,"Auburn School District","Lake View Elementary School",Teacher,Gender,Female,29,1.00,29
+2016-2017,"Auburn School District","Lake View Elementary School",Teacher,Race,"American Indian or Alaska Native",2,0.07,29
+2016-2017,"Auburn School District","Lake View Elementary School",Teacher,Race,Asian,2,0.07,29
+2016-2017,"Auburn School District","Lake View Elementary School",Teacher,Race,White,25,0.86,29
+2016-2017,"Auburn School District","Lakeland Hills Elementary",Student,Gender,Female,349,0.48,725
+2016-2017,"Auburn School District","Lakeland Hills Elementary",Student,Gender,Male,376,0.52,725
+2016-2017,"Auburn School District","Lakeland Hills Elementary",Student,Hispanic,Hispanic,141,0.19,725
+2016-2017,"Auburn School District","Lakeland Hills Elementary",Student,Race,"American Indian or Alaska Native",7,0.01,725
+2016-2017,"Auburn School District","Lakeland Hills Elementary",Student,Race,Asian,88,0.12,725
+2016-2017,"Auburn School District","Lakeland Hills Elementary",Student,Race,"Black or African American",39,0.05,725
+2016-2017,"Auburn School District","Lakeland Hills Elementary",Student,Race,"Native Hawaiian or Other Pacific Islander",2,0.00,725
+2016-2017,"Auburn School District","Lakeland Hills Elementary",Student,Race,"Two or more races",93,0.13,725
+2016-2017,"Auburn School District","Lakeland Hills Elementary",Student,Race,White,355,0.49,725
+2016-2017,"Auburn School District","Lakeland Hills Elementary",Teacher,Gender,Female,37,0.84,44
+2016-2017,"Auburn School District","Lakeland Hills Elementary",Teacher,Gender,Male,7,0.16,44
+2016-2017,"Auburn School District","Lakeland Hills Elementary",Teacher,Hispanic,Hispanic,1,0.02,44
+2016-2017,"Auburn School District","Lakeland Hills Elementary",Teacher,Race,"American Indian or Alaska Native",1,0.02,44
+2016-2017,"Auburn School District","Lakeland Hills Elementary",Teacher,Race,Asian,3,0.07,44
+2016-2017,"Auburn School District","Lakeland Hills Elementary",Teacher,Race,"Black or African American",2,0.05,44
+2016-2017,"Auburn School District","Lakeland Hills Elementary",Teacher,Race,White,39,0.89,44
+2016-2017,"Auburn School District","Lea Hill Elementary School",Student,Gender,Female,226,0.50,452
+2016-2017,"Auburn School District","Lea Hill Elementary School",Student,Gender,Male,226,0.50,452
+2016-2017,"Auburn School District","Lea Hill Elementary School",Student,Hispanic,Hispanic,70,0.15,452
+2016-2017,"Auburn School District","Lea Hill Elementary School",Student,Race,"American Indian or Alaska Native",2,0.00,452
+2016-2017,"Auburn School District","Lea Hill Elementary School",Student,Race,Asian,45,0.10,452
+2016-2017,"Auburn School District","Lea Hill Elementary School",Student,Race,"Black or African American",83,0.18,452
+2016-2017,"Auburn School District","Lea Hill Elementary School",Student,Race,"Native Hawaiian or Other Pacific Islander",13,0.03,452
+2016-2017,"Auburn School District","Lea Hill Elementary School",Student,Race,"Two or more races",64,0.14,452
+2016-2017,"Auburn School District","Lea Hill Elementary School",Student,Race,White,175,0.39,452
+2016-2017,"Auburn School District","Lea Hill Elementary School",Teacher,Gender,Female,25,0.83,30
+2016-2017,"Auburn School District","Lea Hill Elementary School",Teacher,Gender,Male,5,0.17,30
+2016-2017,"Auburn School District","Lea Hill Elementary School",Teacher,Race,Asian,1,0.03,30
+2016-2017,"Auburn School District","Lea Hill Elementary School",Teacher,Race,"Black or African American",1,0.03,30
+2016-2017,"Auburn School District","Lea Hill Elementary School",Teacher,Race,White,29,0.97,30
+2016-2017,"Auburn School District","Mt Baker Middle School",Student,Gender,Female,487,0.49,1002
+2016-2017,"Auburn School District","Mt Baker Middle School",Student,Gender,Male,515,0.51,1002
+2016-2017,"Auburn School District","Mt Baker Middle School",Student,Hispanic,Hispanic,330,0.33,1002
+2016-2017,"Auburn School District","Mt Baker Middle School",Student,Race,"American Indian or Alaska Native",6,0.01,1002
+2016-2017,"Auburn School District","Mt Baker Middle School",Student,Race,Asian,107,0.11,1002
+2016-2017,"Auburn School District","Mt Baker Middle School",Student,Race,"Black or African American",62,0.06,1002
+2016-2017,"Auburn School District","Mt Baker Middle School",Student,Race,"Native Hawaiian or Other Pacific Islander",33,0.03,1002
+2016-2017,"Auburn School District","Mt Baker Middle School",Student,Race,"Two or more races",78,0.08,1002
+2016-2017,"Auburn School District","Mt Baker Middle School",Student,Race,White,386,0.39,1002
+2016-2017,"Auburn School District","Mt Baker Middle School",Teacher,Gender,Female,36,0.69,52
+2016-2017,"Auburn School District","Mt Baker Middle School",Teacher,Gender,Male,16,0.31,52
+2016-2017,"Auburn School District","Mt Baker Middle School",Teacher,Hispanic,Hispanic,1,0.02,52
+2016-2017,"Auburn School District","Mt Baker Middle School",Teacher,Race,"American Indian or Alaska Native",1,0.02,52
+2016-2017,"Auburn School District","Mt Baker Middle School",Teacher,Race,Asian,1,0.02,52
+2016-2017,"Auburn School District","Mt Baker Middle School",Teacher,Race,"Black or African American",2,0.04,52
+2016-2017,"Auburn School District","Mt Baker Middle School",Teacher,Race,White,48,0.92,52
+2016-2017,"Auburn School District","Olympic Middle School",Student,Gender,Female,356,0.47,765
+2016-2017,"Auburn School District","Olympic Middle School",Student,Gender,Male,409,0.53,765
+2016-2017,"Auburn School District","Olympic Middle School",Student,Hispanic,Hispanic,270,0.35,765
+2016-2017,"Auburn School District","Olympic Middle School",Student,Race,"American Indian or Alaska Native",29,0.04,765
+2016-2017,"Auburn School District","Olympic Middle School",Student,Race,Asian,44,0.06,765
+2016-2017,"Auburn School District","Olympic Middle School",Student,Race,"Black or African American",57,0.07,765
+2016-2017,"Auburn School District","Olympic Middle School",Student,Race,"Native Hawaiian or Other Pacific Islander",45,0.06,765
+2016-2017,"Auburn School District","Olympic Middle School",Student,Race,"Two or more races",70,0.09,765
+2016-2017,"Auburn School District","Olympic Middle School",Student,Race,White,250,0.33,765
+2016-2017,"Auburn School District","Olympic Middle School",Teacher,Gender,Female,29,0.58,50
+2016-2017,"Auburn School District","Olympic Middle School",Teacher,Gender,Male,21,0.42,50
+2016-2017,"Auburn School District","Olympic Middle School",Teacher,Hispanic,Hispanic,2,0.04,50
+2016-2017,"Auburn School District","Olympic Middle School",Teacher,Race,"American Indian or Alaska Native",1,0.02,50
+2016-2017,"Auburn School District","Olympic Middle School",Teacher,Race,Asian,2,0.04,50
+2016-2017,"Auburn School District","Olympic Middle School",Teacher,Race,"Black or African American",4,0.08,50
+2016-2017,"Auburn School District","Olympic Middle School",Teacher,Race,White,44,0.88,50
+2016-2017,"Auburn School District","Pioneer Elementary School",Student,Gender,Female,229,0.46,499
+2016-2017,"Auburn School District","Pioneer Elementary School",Student,Gender,Male,270,0.54,499
+2016-2017,"Auburn School District","Pioneer Elementary School",Student,Hispanic,Hispanic,314,0.63,499
+2016-2017,"Auburn School District","Pioneer Elementary School",Student,Race,"American Indian or Alaska Native",0,0.00,499
+2016-2017,"Auburn School District","Pioneer Elementary School",Student,Race,Asian,15,0.03,499
+2016-2017,"Auburn School District","Pioneer Elementary School",Student,Race,"Black or African American",15,0.03,499
+2016-2017,"Auburn School District","Pioneer Elementary School",Student,Race,"Native Hawaiian or Other Pacific Islander",45,0.09,499
+2016-2017,"Auburn School District","Pioneer Elementary School",Student,Race,"Two or more races",32,0.06,499
+2016-2017,"Auburn School District","Pioneer Elementary School",Student,Race,White,78,0.16,499
+2016-2017,"Auburn School District","Pioneer Elementary School",Teacher,Gender,Female,28,0.82,34
+2016-2017,"Auburn School District","Pioneer Elementary School",Teacher,Gender,Male,6,0.18,34
+2016-2017,"Auburn School District","Pioneer Elementary School",Teacher,Hispanic,Hispanic,1,0.03,34
+2016-2017,"Auburn School District","Pioneer Elementary School",Teacher,Race,"American Indian or Alaska Native",1,0.03,34
+2016-2017,"Auburn School District","Pioneer Elementary School",Teacher,Race,Asian,2,0.06,34
+2016-2017,"Auburn School District","Pioneer Elementary School",Teacher,Race,"Native Hawaiian or Other Pacific Islander",1,0.03,34
+2016-2017,"Auburn School District","Pioneer Elementary School",Teacher,Race,White,30,0.88,34
+2016-2017,"Auburn School District","Rainier Middle School",Student,Gender,Female,436,0.48,899
+2016-2017,"Auburn School District","Rainier Middle School",Student,Gender,Male,463,0.52,899
+2016-2017,"Auburn School District","Rainier Middle School",Student,Hispanic,Hispanic,183,0.20,899
+2016-2017,"Auburn School District","Rainier Middle School",Student,Race,"American Indian or Alaska Native",7,0.01,899
+2016-2017,"Auburn School District","Rainier Middle School",Student,Race,Asian,100,0.11,899
+2016-2017,"Auburn School District","Rainier Middle School",Student,Race,"Black or African American",74,0.08,899
+2016-2017,"Auburn School District","Rainier Middle School",Student,Race,"Native Hawaiian or Other Pacific Islander",10,0.01,899
+2016-2017,"Auburn School District","Rainier Middle School",Student,Race,"Two or more races",62,0.07,899
+2016-2017,"Auburn School District","Rainier Middle School",Student,Race,White,463,0.52,899
+2016-2017,"Auburn School District","Rainier Middle School",Teacher,Gender,Female,25,0.58,43
+2016-2017,"Auburn School District","Rainier Middle School",Teacher,Gender,Male,18,0.42,43
+2016-2017,"Auburn School District","Rainier Middle School",Teacher,Hispanic,Hispanic,2,0.05,43
+2016-2017,"Auburn School District","Rainier Middle School",Teacher,Race,Asian,2,0.05,43
+2016-2017,"Auburn School District","Rainier Middle School",Teacher,Race,White,41,0.95,43
+2016-2017,"Auburn School District","Special Ed School",Student,Gender,Female,42,0.40,106
+2016-2017,"Auburn School District","Special Ed School",Student,Gender,Male,64,0.60,106
+2016-2017,"Auburn School District","Special Ed School",Student,Hispanic,Hispanic,31,0.29,106
+2016-2017,"Auburn School District","Special Ed School",Student,Race,"American Indian or Alaska Native",4,0.04,106
+2016-2017,"Auburn School District","Special Ed School",Student,Race,Asian,3,0.03,106
+2016-2017,"Auburn School District","Special Ed School",Student,Race,"Black or African American",10,0.09,106
+2016-2017,"Auburn School District","Special Ed School",Student,Race,"Native Hawaiian or Other Pacific Islander",1,0.01,106
+2016-2017,"Auburn School District","Special Ed School",Student,Race,"Two or more races",7,0.07,106
+2016-2017,"Auburn School District","Special Ed School",Student,Race,White,50,0.47,106
+2016-2017,"Auburn School District","Special Ed School",Teacher,Gender,Female,4,1.00,4
+2016-2017,"Auburn School District","Special Ed School",Teacher,Race,Asian,1,0.25,4
+2016-2017,"Auburn School District","Special Ed School",Teacher,Race,"Black or African American",1,0.25,4
+2016-2017,"Auburn School District","Special Ed School",Teacher,Race,White,2,0.50,4
+2016-2017,"Auburn School District","Terminal Park Elementary School",Student,Gender,Female,241,0.50,481
+2016-2017,"Auburn School District","Terminal Park Elementary School",Student,Gender,Male,240,0.50,481
+2016-2017,"Auburn School District","Terminal Park Elementary School",Student,Hispanic,Hispanic,117,0.24,481
+2016-2017,"Auburn School District","Terminal Park Elementary School",Student,Race,"American Indian or Alaska Native",1,0.00,481
+2016-2017,"Auburn School District","Terminal Park Elementary School",Student,Race,Asian,27,0.06,481
+2016-2017,"Auburn School District","Terminal Park Elementary School",Student,Race,"Black or African American",53,0.11,481
+2016-2017,"Auburn School District","Terminal Park Elementary School",Student,Race,"Native Hawaiian or Other Pacific Islander",47,0.10,481
+2016-2017,"Auburn School District","Terminal Park Elementary School",Student,Race,"Two or more races",71,0.15,481
+2016-2017,"Auburn School District","Terminal Park Elementary School",Student,Race,White,165,0.34,481
+2016-2017,"Auburn School District","Terminal Park Elementary School",Teacher,Gender,Female,28,0.90,31
+2016-2017,"Auburn School District","Terminal Park Elementary School",Teacher,Gender,Male,3,0.10,31
+2016-2017,"Auburn School District","Terminal Park Elementary School",Teacher,Hispanic,Hispanic,1,0.03,31
+2016-2017,"Auburn School District","Terminal Park Elementary School",Teacher,Race,Asian,1,0.03,31
+2016-2017,"Auburn School District","Terminal Park Elementary School",Teacher,Race,White,30,0.97,31
+2016-2017,"Auburn School District","Washington Elementary School",Student,Gender,Female,257,0.49,523
+2016-2017,"Auburn School District","Washington Elementary School",Student,Gender,Male,266,0.51,523
+2016-2017,"Auburn School District","Washington Elementary School",Student,Hispanic,Hispanic,196,0.37,523
+2016-2017,"Auburn School District","Washington Elementary School",Student,Race,"American Indian or Alaska Native",1,0.00,523
+2016-2017,"Auburn School District","Washington Elementary School",Student,Race,Asian,18,0.03,523
+2016-2017,"Auburn School District","Washington Elementary School",Student,Race,"Black or African American",41,0.08,523
+2016-2017,"Auburn School District","Washington Elementary School",Student,Race,"Native Hawaiian or Other Pacific Islander",38,0.07,523
+2016-2017,"Auburn School District","Washington Elementary School",Student,Race,"Two or more races",80,0.15,523
+2016-2017,"Auburn School District","Washington Elementary School",Student,Race,White,149,0.28,523
+2016-2017,"Auburn School District","Washington Elementary School",Teacher,Gender,Female,36,0.92,39
+2016-2017,"Auburn School District","Washington Elementary School",Teacher,Gender,Male,3,0.08,39
+2016-2017,"Auburn School District","Washington Elementary School",Teacher,Race,"Black or African American",1,0.03,39
+2016-2017,"Auburn School District","Washington Elementary School",Teacher,Race,"Native Hawaiian or Other Pacific Islander",1,0.03,39
+2016-2017,"Auburn School District","Washington Elementary School",Teacher,Race,White,37,0.95,39
+2016-2017,"Auburn School District","West Auburn Senior High School",Student,Gender,Female,103,0.52,199
+2016-2017,"Auburn School District","West Auburn Senior High School",Student,Gender,Male,96,0.48,199
+2016-2017,"Auburn School District","West Auburn Senior High School",Student,Hispanic,Hispanic,51,0.26,199
+2016-2017,"Auburn School District","West Auburn Senior High School",Student,Race,"American Indian or Alaska Native",7,0.04,199
+2016-2017,"Auburn School District","West Auburn Senior High School",Student,Race,Asian,5,0.03,199
+2016-2017,"Auburn School District","West Auburn Senior High School",Student,Race,"Black or African American",15,0.08,199
+2016-2017,"Auburn School District","West Auburn Senior High School",Student,Race,"Native Hawaiian or Other Pacific Islander",8,0.04,199
+2016-2017,"Auburn School District","West Auburn Senior High School",Student,Race,"Two or more races",26,0.13,199
+2016-2017,"Auburn School District","West Auburn Senior High School",Student,Race,White,87,0.44,199
+2016-2017,"Auburn School District","West Auburn Senior High School",Teacher,Gender,Female,10,0.53,19
+2016-2017,"Auburn School District","West Auburn Senior High School",Teacher,Gender,Male,9,0.47,19
+2016-2017,"Auburn School District","West Auburn Senior High School",Teacher,Race,"American Indian or Alaska Native",1,0.05,19
+2016-2017,"Auburn School District","West Auburn Senior High School",Teacher,Race,White,18,0.95,19
+2016-2017,"Kent School District","Birth to Age 2",Student,Gender,Female,65,0.43,150
+2016-2017,"Kent School District","Birth to Age 2",Student,Gender,Male,85,0.57,150
+2016-2017,"Kent School District","Birth to Age 2",Student,Hispanic,Hispanic,33,0.22,150
+2016-2017,"Kent School District","Birth to Age 2",Student,Race,"American Indian or Alaska Native",0,0.00,150
+2016-2017,"Kent School District","Birth to Age 2",Student,Race,Asian,22,0.15,150
+2016-2017,"Kent School District","Birth to Age 2",Student,Race,"Black or African American",15,0.10,150
+2016-2017,"Kent School District","Birth to Age 2",Student,Race,"Native Hawaiian or Other Pacific Islander",2,0.01,150
+2016-2017,"Kent School District","Birth to Age 2",Student,Race,"Two or more races",25,0.17,150
+2016-2017,"Kent School District","Birth to Age 2",Student,Race,White,53,0.35,150
+2016-2017,"Kent School District","Carriage Crest Elementary School",Student,Gender,Female,235,0.50,472
+2016-2017,"Kent School District","Carriage Crest Elementary School",Student,Gender,Male,237,0.50,472
+2016-2017,"Kent School District","Carriage Crest Elementary School",Student,Hispanic,Hispanic,69,0.15,472
+2016-2017,"Kent School District","Carriage Crest Elementary School",Student,Race,"American Indian or Alaska Native",2,0.00,472
+2016-2017,"Kent School District","Carriage Crest Elementary School",Student,Race,Asian,91,0.19,472
+2016-2017,"Kent School District","Carriage Crest Elementary School",Student,Race,"Black or African American",32,0.07,472
+2016-2017,"Kent School District","Carriage Crest Elementary School",Student,Race,"Native Hawaiian or Other Pacific Islander",2,0.00,472
+2016-2017,"Kent School District","Carriage Crest Elementary School",Student,Race,"Two or more races",54,0.11,472
+2016-2017,"Kent School District","Carriage Crest Elementary School",Student,Race,White,222,0.47,472
+2016-2017,"Kent School District","Carriage Crest Elementary School",Teacher,Gender,Female,24,0.83,29
+2016-2017,"Kent School District","Carriage Crest Elementary School",Teacher,Gender,Male,5,0.17,29
+2016-2017,"Kent School District","Carriage Crest Elementary School",Teacher,Hispanic,Hispanic,2,0.07,29
+2016-2017,"Kent School District","Carriage Crest Elementary School",Teacher,Race,"American Indian or Alaska Native",2,0.07,29
+2016-2017,"Kent School District","Carriage Crest Elementary School",Teacher,Race,Asian,4,0.14,29
+2016-2017,"Kent School District","Carriage Crest Elementary School",Teacher,Race,"Black or African American",2,0.07,29
+2016-2017,"Kent School District","Carriage Crest Elementary School",Teacher,Race,"Native Hawaiian or Other Pacific Islander",1,0.03,29
+2016-2017,"Kent School District","Carriage Crest Elementary School",Teacher,Race,White,25,0.86,29
+2016-2017,"Kent School District","Cedar Heights Middle School",Student,Gender,Female,304,0.46,663
+2016-2017,"Kent School District","Cedar Heights Middle School",Student,Gender,Male,359,0.54,663
+2016-2017,"Kent School District","Cedar Heights Middle School",Student,Hispanic,Hispanic,114,0.17,663
+2016-2017,"Kent School District","Cedar Heights Middle School",Student,Race,"American Indian or Alaska Native",6,0.01,663
+2016-2017,"Kent School District","Cedar Heights Middle School",Student,Race,Asian,52,0.08,663
+2016-2017,"Kent School District","Cedar Heights Middle School",Student,Race,"Black or African American",58,0.09,663
+2016-2017,"Kent School District","Cedar Heights Middle School",Student,Race,"Native Hawaiian or Other Pacific Islander",13,0.02,663
+2016-2017,"Kent School District","Cedar Heights Middle School",Student,Race,"Two or more races",58,0.09,663
+2016-2017,"Kent School District","Cedar Heights Middle School",Student,Race,White,362,0.55,663
+2016-2017,"Kent School District","Cedar Heights Middle School",Teacher,Gender,Female,21,0.58,36
+2016-2017,"Kent School District","Cedar Heights Middle School",Teacher,Gender,Male,15,0.42,36
+2016-2017,"Kent School District","Cedar Heights Middle School",Teacher,Hispanic,Hispanic,1,0.03,36
+2016-2017,"Kent School District","Cedar Heights Middle School",Teacher,Race,White,36,1.00,36
+2016-2017,"Kent School District","Cedar Valley Elementary School",Student,Gender,Female,130,0.46,284
+2016-2017,"Kent School District","Cedar Valley Elementary School",Student,Gender,Male,154,0.54,284
+2016-2017,"Kent School District","Cedar Valley Elementary School",Student,Hispanic,Hispanic,90,0.32,284
+2016-2017,"Kent School District","Cedar Valley Elementary School",Student,Race,"American Indian or Alaska Native",6,0.02,284
+2016-2017,"Kent School District","Cedar Valley Elementary School",Student,Race,Asian,8,0.03,284
+2016-2017,"Kent School District","Cedar Valley Elementary School",Student,Race,"Black or African American",24,0.08,284
+2016-2017,"Kent School District","Cedar Valley Elementary School",Student,Race,"Native Hawaiian or Other Pacific Islander",0,0.00,284
+2016-2017,"Kent School District","Cedar Valley Elementary School",Student,Race,"Two or more races",21,0.07,284
+2016-2017,"Kent School District","Cedar Valley Elementary School",Student,Race,White,135,0.48,284
+2016-2017,"Kent School District","Cedar Valley Elementary School",Teacher,Gender,Female,21,0.81,26
+2016-2017,"Kent School District","Cedar Valley Elementary School",Teacher,Gender,Male,5,0.19,26
+2016-2017,"Kent School District","Cedar Valley Elementary School",Teacher,Race,Asian,3,0.12,26
+2016-2017,"Kent School District","Cedar Valley Elementary School",Teacher,Race,White,24,0.92,26
+2016-2017,"Kent School District","Covington Elementary School",Student,Gender,Female,267,0.46,575
+2016-2017,"Kent School District","Covington Elementary School",Student,Gender,Male,308,0.54,575
+2016-2017,"Kent School District","Covington Elementary School",Student,Hispanic,Hispanic,137,0.24,575
+2016-2017,"Kent School District","Covington Elementary School",Student,Race,"American Indian or Alaska Native",4,0.01,575
+2016-2017,"Kent School District","Covington Elementary School",Student,Race,Asian,75,0.13,575
+2016-2017,"Kent School District","Covington Elementary School",Student,Race,"Black or African American",45,0.08,575
+2016-2017,"Kent School District","Covington Elementary School",Student,Race,"Native Hawaiian or Other Pacific Islander",0,0.00,575
+2016-2017,"Kent School District","Covington Elementary School",Student,Race,"Two or more races",50,0.09,575
+2016-2017,"Kent School District","Covington Elementary School",Student,Race,White,264,0.46,575
+2016-2017,"Kent School District","Covington Elementary School",Teacher,Gender,Female,32,0.86,37
+2016-2017,"Kent School District","Covington Elementary School",Teacher,Gender,Male,5,0.14,37
+2016-2017,"Kent School District","Covington Elementary School",Teacher,Hispanic,Hispanic,1,0.03,37
+2016-2017,"Kent School District","Covington Elementary School",Teacher,Race,"Black or African American",1,0.03,37
+2016-2017,"Kent School District","Covington Elementary School",Teacher,Race,"Native Hawaiian or Other Pacific Islander",1,0.03,37
+2016-2017,"Kent School District","Covington Elementary School",Teacher,Race,White,35,0.95,37
+2016-2017,"Kent School District","Crestwood Elementary School",Student,Gender,Female,249,0.51,485
+2016-2017,"Kent School District","Crestwood Elementary School",Student,Gender,Male,236,0.49,485
+2016-2017,"Kent School District","Crestwood Elementary School",Student,Hispanic,Hispanic,83,0.17,485
+2016-2017,"Kent School District","Crestwood Elementary School",Student,Race,"American Indian or Alaska Native",2,0.00,485
+2016-2017,"Kent School District","Crestwood Elementary School",Student,Race,Asian,28,0.06,485
+2016-2017,"Kent School District","Crestwood Elementary School",Student,Race,"Black or African American",17,0.04,485
+2016-2017,"Kent School District","Crestwood Elementary School",Student,Race,"Native Hawaiian or Other Pacific Islander",1,0.00,485
+2016-2017,"Kent School District","Crestwood Elementary School",Student,Race,"Two or more races",45,0.09,485
+2016-2017,"Kent School District","Crestwood Elementary School",Student,Race,White,309,0.64,485
+2016-2017,"Kent School District","Crestwood Elementary School",Teacher,Gender,Female,27,0.90,30
+2016-2017,"Kent School District","Crestwood Elementary School",Teacher,Gender,Male,3,0.10,30
+2016-2017,"Kent School District","Crestwood Elementary School",Teacher,Race,Asian,1,0.03,30
+2016-2017,"Kent School District","Crestwood Elementary School",Teacher,Race,White,29,0.97,30
+2016-2017,"Kent School District","East Hill Elementary School",Student,Gender,Female,285,0.52,553
+2016-2017,"Kent School District","East Hill Elementary School",Student,Gender,Male,268,0.48,553
+2016-2017,"Kent School District","East Hill Elementary School",Student,Hispanic,Hispanic,151,0.27,553
+2016-2017,"Kent School District","East Hill Elementary School",Student,Race,"American Indian or Alaska Native",0,0.00,553
+2016-2017,"Kent School District","East Hill Elementary School",Student,Race,Asian,117,0.21,553
+2016-2017,"Kent School District","East Hill Elementary School",Student,Race,"Black or African American",124,0.22,553
+2016-2017,"Kent School District","East Hill Elementary School",Student,Race,"Native Hawaiian or Other Pacific Islander",22,0.04,553
+2016-2017,"Kent School District","East Hill Elementary School",Student,Race,"Two or more races",60,0.11,553
+2016-2017,"Kent School District","East Hill Elementary School",Student,Race,White,79,0.14,553
+2016-2017,"Kent School District","East Hill Elementary School",Teacher,Gender,Female,32,0.86,37
+2016-2017,"Kent School District","East Hill Elementary School",Teacher,Gender,Male,5,0.14,37
+2016-2017,"Kent School District","East Hill Elementary School",Teacher,Hispanic,Hispanic,2,0.05,37
+2016-2017,"Kent School District","East Hill Elementary School",Teacher,Race,Asian,7,0.19,37
+2016-2017,"Kent School District","East Hill Elementary School",Teacher,Race,"Black or African American",2,0.05,37
+2016-2017,"Kent School District","East Hill Elementary School",Teacher,Race,White,29,0.78,37
+2016-2017,"Kent School District","Emerald Park Elementary School",Student,Gender,Female,238,0.49,487
+2016-2017,"Kent School District","Emerald Park Elementary School",Student,Gender,Male,249,0.51,487
+2016-2017,"Kent School District","Emerald Park Elementary School",Student,Hispanic,Hispanic,76,0.16,487
+2016-2017,"Kent School District","Emerald Park Elementary School",Student,Race,"American Indian or Alaska Native",1,0.00,487
+2016-2017,"Kent School District","Emerald Park Elementary School",Student,Race,Asian,150,0.31,487
+2016-2017,"Kent School District","Emerald Park Elementary School",Student,Race,"Black or African American",68,0.14,487
+2016-2017,"Kent School District","Emerald Park Elementary School",Student,Race,"Native Hawaiian or Other Pacific Islander",18,0.04,487
+2016-2017,"Kent School District","Emerald Park Elementary School",Student,Race,"Two or more races",58,0.12,487
+2016-2017,"Kent School District","Emerald Park Elementary School",Student,Race,White,116,0.24,487
+2016-2017,"Kent School District","Emerald Park Elementary School",Teacher,Gender,Female,26,0.84,31
+2016-2017,"Kent School District","Emerald Park Elementary School",Teacher,Gender,Male,5,0.16,31
+2016-2017,"Kent School District","Emerald Park Elementary School",Teacher,Race,Asian,4,0.13,31
+2016-2017,"Kent School District","Emerald Park Elementary School",Teacher,Race,"Native Hawaiian or Other Pacific Islander",1,0.03,31
+2016-2017,"Kent School District","Emerald Park Elementary School",Teacher,Race,White,27,0.87,31
+2016-2017,"Kent School District","Fairwood Elementary School",Student,Gender,Female,200,0.54,373
+2016-2017,"Kent School District","Fairwood Elementary School",Student,Gender,Male,173,0.46,373
+2016-2017,"Kent School District","Fairwood Elementary School",Student,Hispanic,Hispanic,66,0.18,373
+2016-2017,"Kent School District","Fairwood Elementary School",Student,Race,"American Indian or Alaska Native",1,0.00,373
+2016-2017,"Kent School District","Fairwood Elementary School",Student,Race,Asian,50,0.13,373
+2016-2017,"Kent School District","Fairwood Elementary School",Student,Race,"Black or African American",33,0.09,373
+2016-2017,"Kent School District","Fairwood Elementary School",Student,Race,"Native Hawaiian or Other Pacific Islander",1,0.00,373
+2016-2017,"Kent School District","Fairwood Elementary School",Student,Race,"Two or more races",64,0.17,373
+2016-2017,"Kent School District","Fairwood Elementary School",Student,Race,White,158,0.42,373
+2016-2017,"Kent School District","Fairwood Elementary School",Teacher,Gender,Female,24,0.86,28
+2016-2017,"Kent School District","Fairwood Elementary School",Teacher,Gender,Male,4,0.14,28
+2016-2017,"Kent School District","Fairwood Elementary School",Teacher,Race,"American Indian or Alaska Native",1,0.04,28
+2016-2017,"Kent School District","Fairwood Elementary School",Teacher,Race,White,27,0.96,28
+2016-2017,"Kent School District","George T. Daniel Elementary School",Student,Gender,Female,241,0.45,535
+2016-2017,"Kent School District","George T. Daniel Elementary School",Student,Gender,Male,294,0.55,535
+2016-2017,"Kent School District","George T. Daniel Elementary School",Student,Hispanic,Hispanic,152,0.28,535
+2016-2017,"Kent School District","George T. Daniel Elementary School",Student,Race,"American Indian or Alaska Native",2,0.00,535
+2016-2017,"Kent School District","George T. Daniel Elementary School",Student,Race,Asian,93,0.17,535
+2016-2017,"Kent School District","George T. Daniel Elementary School",Student,Race,"Black or African American",106,0.20,535
+2016-2017,"Kent School District","George T. Daniel Elementary School",Student,Race,"Native Hawaiian or Other Pacific Islander",12,0.02,535
+2016-2017,"Kent School District","George T. Daniel Elementary School",Student,Race,"Two or more races",51,0.10,535
+2016-2017,"Kent School District","George T. Daniel Elementary School",Student,Race,White,119,0.22,535
+2016-2017,"Kent School District","George T. Daniel Elementary School",Teacher,Gender,Female,29,0.76,38
+2016-2017,"Kent School District","George T. Daniel Elementary School",Teacher,Gender,Male,9,0.24,38
+2016-2017,"Kent School District","George T. Daniel Elementary School",Teacher,Race,Asian,4,0.11,38
+2016-2017,"Kent School District","George T. Daniel Elementary School",Teacher,Race,"Black or African American",3,0.08,38
+2016-2017,"Kent School District","George T. Daniel Elementary School",Teacher,Race,"Native Hawaiian or Other Pacific Islander",1,0.03,38
+2016-2017,"Kent School District","George T. Daniel Elementary School",Teacher,Race,White,31,0.82,38
+2016-2017,"Kent School District","Glenridge Elementary",Student,Gender,Female,231,0.50,461
+2016-2017,"Kent School District","Glenridge Elementary",Student,Gender,Male,230,0.50,461
+2016-2017,"Kent School District","Glenridge Elementary",Student,Hispanic,Hispanic,66,0.14,461
+2016-2017,"Kent School District","Glenridge Elementary",Student,Race,"American Indian or Alaska Native",0,0.00,461
+2016-2017,"Kent School District","Glenridge Elementary",Student,Race,Asian,159,0.34,461
+2016-2017,"Kent School District","Glenridge Elementary",Student,Race,"Black or African American",73,0.16,461
+2016-2017,"Kent School District","Glenridge Elementary",Student,Race,"Native Hawaiian or Other Pacific Islander",12,0.03,461
+2016-2017,"Kent School District","Glenridge Elementary",Student,Race,"Two or more races",44,0.10,461
+2016-2017,"Kent School District","Glenridge Elementary",Student,Race,White,107,0.23,461
+2016-2017,"Kent School District","Glenridge Elementary",Teacher,Gender,Female,29,0.97,30
+2016-2017,"Kent School District","Glenridge Elementary",Teacher,Gender,Male,1,0.03,30
+2016-2017,"Kent School District","Glenridge Elementary",Teacher,Race,White,30,1.00,30
+2016-2017,"Kent School District","Grass Lake Elementary School",Student,Gender,Female,209,0.51,407
+2016-2017,"Kent School District","Grass Lake Elementary School",Student,Gender,Male,198,0.49,407
+2016-2017,"Kent School District","Grass Lake Elementary School",Student,Hispanic,Hispanic,66,0.16,407
+2016-2017,"Kent School District","Grass Lake Elementary School",Student,Race,"American Indian or Alaska Native",1,0.00,407
+2016-2017,"Kent School District","Grass Lake Elementary School",Student,Race,Asian,15,0.04,407
+2016-2017,"Kent School District","Grass Lake Elementary School",Student,Race,"Black or African American",12,0.03,407
+2016-2017,"Kent School District","Grass Lake Elementary School",Student,Race,"Native Hawaiian or Other Pacific Islander",1,0.00,407
+2016-2017,"Kent School District","Grass Lake Elementary School",Student,Race,"Two or more races",30,0.07,407
+2016-2017,"Kent School District","Grass Lake Elementary School",Student,Race,White,282,0.69,407
+2016-2017,"Kent School District","Grass Lake Elementary School",Teacher,Gender,Female,22,0.85,26
+2016-2017,"Kent School District","Grass Lake Elementary School",Teacher,Gender,Male,4,0.15,26
+2016-2017,"Kent School District","Grass Lake Elementary School",Teacher,Race,"Black or African American",2,0.08,26
+2016-2017,"Kent School District","Grass Lake Elementary School",Teacher,Race,White,24,0.92,26
+2016-2017,"Kent School District","Horizon Elementary School",Student,Gender,Female,233,0.50,468
+2016-2017,"Kent School District","Horizon Elementary School",Student,Gender,Male,235,0.50,468
+2016-2017,"Kent School District","Horizon Elementary School",Student,Hispanic,Hispanic,75,0.16,468
+2016-2017,"Kent School District","Horizon Elementary School",Student,Race,"American Indian or Alaska Native",2,0.00,468
+2016-2017,"Kent School District","Horizon Elementary School",Student,Race,Asian,70,0.15,468
+2016-2017,"Kent School District","Horizon Elementary School",Student,Race,"Black or African American",50,0.11,468
+2016-2017,"Kent School District","Horizon Elementary School",Student,Race,"Native Hawaiian or Other Pacific Islander",11,0.02,468
+2016-2017,"Kent School District","Horizon Elementary School",Student,Race,"Two or more races",43,0.09,468
+2016-2017,"Kent School District","Horizon Elementary School",Student,Race,White,217,0.46,468
+2016-2017,"Kent School District","Horizon Elementary School",Teacher,Gender,Female,23,0.82,28
+2016-2017,"Kent School District","Horizon Elementary School",Teacher,Gender,Male,5,0.18,28
+2016-2017,"Kent School District","Horizon Elementary School",Teacher,Race,"Black or African American",1,0.04,28
+2016-2017,"Kent School District","Horizon Elementary School",Teacher,Race,White,27,0.96,28
+2016-2017,"Kent School District",iGrad,Student,Gender,Female,177,0.47,376
+2016-2017,"Kent School District",iGrad,Student,Gender,Male,199,0.53,376
+2016-2017,"Kent School District",iGrad,Student,Hispanic,Hispanic,107,0.28,376
+2016-2017,"Kent School District",iGrad,Student,Race,"American Indian or Alaska Native",3,0.01,376
+2016-2017,"Kent School District",iGrad,Student,Race,Asian,37,0.10,376
+2016-2017,"Kent School District",iGrad,Student,Race,"Black or African American",41,0.11,376
+2016-2017,"Kent School District",iGrad,Student,Race,"Native Hawaiian or Other Pacific Islander",14,0.04,376
+2016-2017,"Kent School District",iGrad,Student,Race,"Two or more races",29,0.08,376
+2016-2017,"Kent School District",iGrad,Student,Race,White,145,0.39,376
+2016-2017,"Kent School District",iGrad,Teacher,Gender,Female,6,0.55,11
+2016-2017,"Kent School District",iGrad,Teacher,Gender,Male,5,0.45,11
+2016-2017,"Kent School District",iGrad,Teacher,Race,"American Indian or Alaska Native",1,0.09,11
+2016-2017,"Kent School District",iGrad,Teacher,Race,Asian,2,0.18,11
+2016-2017,"Kent School District",iGrad,Teacher,Race,"Black or African American",1,0.09,11
+2016-2017,"Kent School District",iGrad,Teacher,Race,White,7,0.64,11
+2016-2017,"Kent School District","Jenkins Creek Elementary School",Student,Gender,Female,205,0.48,426
+2016-2017,"Kent School District","Jenkins Creek Elementary School",Student,Gender,Male,221,0.52,426
+2016-2017,"Kent School District","Jenkins Creek Elementary School",Student,Hispanic,Hispanic,85,0.20,426
+2016-2017,"Kent School District","Jenkins Creek Elementary School",Student,Race,"American Indian or Alaska Native",5,0.01,426
+2016-2017,"Kent School District","Jenkins Creek Elementary School",Student,Race,Asian,33,0.08,426
+2016-2017,"Kent School District","Jenkins Creek Elementary School",Student,Race,"Black or African American",27,0.06,426
+2016-2017,"Kent School District","Jenkins Creek Elementary School",Student,Race,"Native Hawaiian or Other Pacific Islander",6,0.01,426
+2016-2017,"Kent School District","Jenkins Creek Elementary School",Student,Race,"Two or more races",47,0.11,426
+2016-2017,"Kent School District","Jenkins Creek Elementary School",Student,Race,White,223,0.52,426
+2016-2017,"Kent School District","Jenkins Creek Elementary School",Teacher,Gender,Female,27,0.93,29
+2016-2017,"Kent School District","Jenkins Creek Elementary School",Teacher,Gender,Male,2,0.07,29
+2016-2017,"Kent School District","Jenkins Creek Elementary School",Teacher,Race,"American Indian or Alaska Native",1,0.03,29
+2016-2017,"Kent School District","Jenkins Creek Elementary School",Teacher,Race,"Black or African American",1,0.03,29
+2016-2017,"Kent School District","Jenkins Creek Elementary School",Teacher,Race,White,28,0.97,29
+2016-2017,"Kent School District","Kent Elementary School",Student,Gender,Female,361,0.49,735
+2016-2017,"Kent School District","Kent Elementary School",Student,Gender,Male,374,0.51,735
+2016-2017,"Kent School District","Kent Elementary School",Student,Hispanic,Hispanic,387,0.53,735
+2016-2017,"Kent School District","Kent Elementary School",Student,Race,"American Indian or Alaska Native",1,0.00,735
+2016-2017,"Kent School District","Kent Elementary School",Student,Race,Asian,56,0.08,735
+2016-2017,"Kent School District","Kent Elementary School",Student,Race,"Black or African American",59,0.08,735
+2016-2017,"Kent School District","Kent Elementary School",Student,Race,"Native Hawaiian or Other Pacific Islander",76,0.10,735
+2016-2017,"Kent School District","Kent Elementary School",Student,Race,"Two or more races",56,0.08,735
+2016-2017,"Kent School District","Kent Elementary School",Student,Race,White,100,0.14,735
+2016-2017,"Kent School District","Kent Elementary School",Teacher,Gender,Female,47,0.87,54
+2016-2017,"Kent School District","Kent Elementary School",Teacher,Gender,Male,7,0.13,54
+2016-2017,"Kent School District","Kent Elementary School",Teacher,Hispanic,Hispanic,7,0.13,54
+2016-2017,"Kent School District","Kent Elementary School",Teacher,Race,"American Indian or Alaska Native",1,0.02,54
+2016-2017,"Kent School District","Kent Elementary School",Teacher,Race,Asian,5,0.09,54
+2016-2017,"Kent School District","Kent Elementary School",Teacher,Race,"Black or African American",3,0.06,54
+2016-2017,"Kent School District","Kent Elementary School",Teacher,Race,"Native Hawaiian or Other Pacific Islander",1,0.02,54
+2016-2017,"Kent School District","Kent Elementary School",Teacher,Race,White,48,0.89,54
+2016-2017,"Kent School District","Kent Mountain View Academy",Student,Gender,Female,159,0.52,304
+2016-2017,"Kent School District","Kent Mountain View Academy",Student,Gender,Male,145,0.48,304
+2016-2017,"Kent School District","Kent Mountain View Academy",Student,Hispanic,Hispanic,37,0.12,304
+2016-2017,"Kent School District","Kent Mountain View Academy",Student,Race,"American Indian or Alaska Native",1,0.00,304
+2016-2017,"Kent School District","Kent Mountain View Academy",Student,Race,Asian,61,0.20,304
+2016-2017,"Kent School District","Kent Mountain View Academy",Student,Race,"Black or African American",23,0.08,304
+2016-2017,"Kent School District","Kent Mountain View Academy",Student,Race,"Native Hawaiian or Other Pacific Islander",2,0.01,304
+2016-2017,"Kent School District","Kent Mountain View Academy",Student,Race,"Two or more races",37,0.12,304
+2016-2017,"Kent School District","Kent Mountain View Academy",Student,Race,White,143,0.47,304
+2016-2017,"Kent School District","Kent Mountain View Academy",Teacher,Gender,Female,10,0.56,18
+2016-2017,"Kent School District","Kent Mountain View Academy",Teacher,Gender,Male,8,0.44,18
+2016-2017,"Kent School District","Kent Mountain View Academy",Teacher,Race,White,18,1.00,18
+2016-2017,"Kent School District","Kent Phoenix Academy",Student,Gender,Female,172,0.62,278
+2016-2017,"Kent School District","Kent Phoenix Academy",Student,Gender,Male,106,0.38,278
+2016-2017,"Kent School District","Kent Phoenix Academy",Student,Hispanic,Hispanic,79,0.28,278
+2016-2017,"Kent School District","Kent Phoenix Academy",Student,Race,"American Indian or Alaska Native",3,0.01,278
+2016-2017,"Kent School District","Kent Phoenix Academy",Student,Race,Asian,16,0.06,278
+2016-2017,"Kent School District","Kent Phoenix Academy",Student,Race,"Black or African American",42,0.15,278
+2016-2017,"Kent School District","Kent Phoenix Academy",Student,Race,"Native Hawaiian or Other Pacific Islander",6,0.02,278
+2016-2017,"Kent School District","Kent Phoenix Academy",Student,Race,"Two or more races",30,0.11,278
+2016-2017,"Kent School District","Kent Phoenix Academy",Student,Race,White,102,0.37,278
+2016-2017,"Kent School District","Kent Phoenix Academy",Teacher,Gender,Female,10,0.53,19
+2016-2017,"Kent School District","Kent Phoenix Academy",Teacher,Gender,Male,9,0.47,19
+2016-2017,"Kent School District","Kent Phoenix Academy",Teacher,Race,"American Indian or Alaska Native",1,0.05,19
+2016-2017,"Kent School District","Kent Phoenix Academy",Teacher,Race,White,19,1.00,19
+2016-2017,"Kent School District","Kent-Meridian High School",Student,Gender,Female,985,0.47,2082
+2016-2017,"Kent School District","Kent-Meridian High School",Student,Gender,Male,1097,0.53,2082
+2016-2017,"Kent School District","Kent-Meridian High School",Student,Hispanic,Hispanic,634,0.30,2082
+2016-2017,"Kent School District","Kent-Meridian High School",Student,Race,"American Indian or Alaska Native",5,0.00,2082
+2016-2017,"Kent School District","Kent-Meridian High School",Student,Race,Asian,437,0.21,2082
+2016-2017,"Kent School District","Kent-Meridian High School",Student,Race,"Black or African American",396,0.19,2082
+2016-2017,"Kent School District","Kent-Meridian High School",Student,Race,"Native Hawaiian or Other Pacific Islander",86,0.04,2082
+2016-2017,"Kent School District","Kent-Meridian High School",Student,Race,"Two or more races",119,0.06,2082
+2016-2017,"Kent School District","Kent-Meridian High School",Student,Race,White,405,0.19,2082
+2016-2017,"Kent School District","Kent-Meridian High School",Teacher,Gender,Female,59,0.56,105
+2016-2017,"Kent School District","Kent-Meridian High School",Teacher,Gender,Male,46,0.44,105
+2016-2017,"Kent School District","Kent-Meridian High School",Teacher,Hispanic,Hispanic,4,0.04,105
+2016-2017,"Kent School District","Kent-Meridian High School",Teacher,Race,"American Indian or Alaska Native",2,0.02,105
+2016-2017,"Kent School District","Kent-Meridian High School",Teacher,Race,Asian,13,0.12,105
+2016-2017,"Kent School District","Kent-Meridian High School",Teacher,Race,"Black or African American",3,0.03,105
+2016-2017,"Kent School District","Kent-Meridian High School",Teacher,Race,"Native Hawaiian or Other Pacific Islander",1,0.01,105
+2016-2017,"Kent School District","Kent-Meridian High School",Teacher,Race,White,89,0.85,105
+2016-2017,"Kent School District","Kentlake High School",Student,Gender,Female,727,0.48,1504
+2016-2017,"Kent School District","Kentlake High School",Student,Gender,Male,777,0.52,1504
+2016-2017,"Kent School District","Kentlake High School",Student,Hispanic,Hispanic,245,0.16,1504
+2016-2017,"Kent School District","Kentlake High School",Student,Race,"American Indian or Alaska Native",9,0.01,1504
+2016-2017,"Kent School District","Kentlake High School",Student,Race,Asian,125,0.08,1504
+2016-2017,"Kent School District","Kentlake High School",Student,Race,"Black or African American",115,0.08,1504
+2016-2017,"Kent School District","Kentlake High School",Student,Race,"Native Hawaiian or Other Pacific Islander",28,0.02,1504
+2016-2017,"Kent School District","Kentlake High School",Student,Race,"Two or more races",129,0.09,1504
+2016-2017,"Kent School District","Kentlake High School",Student,Race,White,853,0.57,1504
+2016-2017,"Kent School District","Kentlake High School",Teacher,Gender,Female,40,0.57,70
+2016-2017,"Kent School District","Kentlake High School",Teacher,Gender,Male,30,0.43,70
+2016-2017,"Kent School District","Kentlake High School",Teacher,Hispanic,Hispanic,1,0.01,70
+2016-2017,"Kent School District","Kentlake High School",Teacher,Race,"American Indian or Alaska Native",1,0.01,70
+2016-2017,"Kent School District","Kentlake High School",Teacher,Race,Asian,5,0.07,70
+2016-2017,"Kent School District","Kentlake High School",Teacher,Race,"Black or African American",1,0.01,70
+2016-2017,"Kent School District","Kentlake High School",Teacher,Race,White,63,0.90,70
+2016-2017,"Kent School District","Kentridge High School",Student,Gender,Female,1102,0.49,2262
+2016-2017,"Kent School District","Kentridge High School",Student,Gender,Male,1160,0.51,2262
+2016-2017,"Kent School District","Kentridge High School",Student,Hispanic,Hispanic,286,0.13,2262
+2016-2017,"Kent School District","Kentridge High School",Student,Race,"American Indian or Alaska Native",9,0.00,2262
+2016-2017,"Kent School District","Kentridge High School",Student,Race,Asian,571,0.25,2262
+2016-2017,"Kent School District","Kentridge High School",Student,Race,"Black or African American",248,0.11,2262
+2016-2017,"Kent School District","Kentridge High School",Student,Race,"Native Hawaiian or Other Pacific Islander",39,0.02,2262
+2016-2017,"Kent School District","Kentridge High School",Student,Race,"Two or more races",232,0.10,2262
+2016-2017,"Kent School District","Kentridge High School",Student,Race,White,877,0.39,2262
+2016-2017,"Kent School District","Kentridge High School",Teacher,Gender,Female,58,0.56,103
+2016-2017,"Kent School District","Kentridge High School",Teacher,Gender,Male,45,0.44,103
+2016-2017,"Kent School District","Kentridge High School",Teacher,Hispanic,Hispanic,3,0.03,103
+2016-2017,"Kent School District","Kentridge High School",Teacher,Race,Asian,8,0.08,103
+2016-2017,"Kent School District","Kentridge High School",Teacher,Race,"Black or African American",4,0.04,103
+2016-2017,"Kent School District","Kentridge High School",Teacher,Race,White,94,0.91,103
+2016-2017,"Kent School District","Kentwood High School",Student,Gender,Female,953,0.46,2072
+2016-2017,"Kent School District","Kentwood High School",Student,Gender,Male,1119,0.54,2072
+2016-2017,"Kent School District","Kentwood High School",Student,Hispanic,Hispanic,375,0.18,2072
+2016-2017,"Kent School District","Kentwood High School",Student,Race,"American Indian or Alaska Native",16,0.01,2072
+2016-2017,"Kent School District","Kentwood High School",Student,Race,Asian,470,0.23,2072
+2016-2017,"Kent School District","Kentwood High School",Student,Race,"Black or African American",192,0.09,2072
+2016-2017,"Kent School District","Kentwood High School",Student,Race,"Native Hawaiian or Other Pacific Islander",49,0.02,2072
+2016-2017,"Kent School District","Kentwood High School",Student,Race,"Two or more races",157,0.08,2072
+2016-2017,"Kent School District","Kentwood High School",Student,Race,White,813,0.39,2072
+2016-2017,"Kent School District","Kentwood High School",Teacher,Gender,Female,51,0.53,97
+2016-2017,"Kent School District","Kentwood High School",Teacher,Gender,Male,46,0.47,97
+2016-2017,"Kent School District","Kentwood High School",Teacher,Hispanic,Hispanic,4,0.04,97
+2016-2017,"Kent School District","Kentwood High School",Teacher,Race,"American Indian or Alaska Native",1,0.01,97
+2016-2017,"Kent School District","Kentwood High School",Teacher,Race,Asian,11,0.11,97
+2016-2017,"Kent School District","Kentwood High School",Teacher,Race,"Black or African American",4,0.04,97
+2016-2017,"Kent School District","Kentwood High School",Teacher,Race,"Native Hawaiian or Other Pacific Islander",1,0.01,97
+2016-2017,"Kent School District","Kentwood High School",Teacher,Race,White,84,0.87,97
+2016-2017,"Kent School District","Lake Youngs Elementary School",Student,Gender,Female,232,0.47,495
+2016-2017,"Kent School District","Lake Youngs Elementary School",Student,Gender,Male,263,0.53,495
+2016-2017,"Kent School District","Lake Youngs Elementary School",Student,Hispanic,Hispanic,79,0.16,495
+2016-2017,"Kent School District","Lake Youngs Elementary School",Student,Race,"American Indian or Alaska Native",1,0.00,495
+2016-2017,"Kent School District","Lake Youngs Elementary School",Student,Race,Asian,107,0.22,495
+2016-2017,"Kent School District","Lake Youngs Elementary School",Student,Race,"Black or African American",23,0.05,495
+2016-2017,"Kent School District","Lake Youngs Elementary School",Student,Race,"Native Hawaiian or Other Pacific Islander",4,0.01,495
+2016-2017,"Kent School District","Lake Youngs Elementary School",Student,Race,"Two or more races",50,0.10,495
+2016-2017,"Kent School District","Lake Youngs Elementary School",Student,Race,White,231,0.47,495
+2016-2017,"Kent School District","Lake Youngs Elementary School",Teacher,Gender,Female,28,0.90,31
+2016-2017,"Kent School District","Lake Youngs Elementary School",Teacher,Gender,Male,3,0.10,31
+2016-2017,"Kent School District","Lake Youngs Elementary School",Teacher,Race,Asian,2,0.06,31
+2016-2017,"Kent School District","Lake Youngs Elementary School",Teacher,Race,"Black or African American",1,0.03,31
+2016-2017,"Kent School District","Lake Youngs Elementary School",Teacher,Race,"Native Hawaiian or Other Pacific Islander",1,0.03,31
+2016-2017,"Kent School District","Lake Youngs Elementary School",Teacher,Race,White,30,0.97,31
+2016-2017,"Kent School District","Martin Sortun Elementary School",Student,Gender,Female,344,0.50,689
+2016-2017,"Kent School District","Martin Sortun Elementary School",Student,Gender,Male,345,0.50,689
+2016-2017,"Kent School District","Martin Sortun Elementary School",Student,Hispanic,Hispanic,115,0.17,689
+2016-2017,"Kent School District","Martin Sortun Elementary School",Student,Race,"American Indian or Alaska Native",1,0.00,689
+2016-2017,"Kent School District","Martin Sortun Elementary School",Student,Race,Asian,221,0.32,689
+2016-2017,"Kent School District","Martin Sortun Elementary School",Student,Race,"Black or African American",92,0.13,689
+2016-2017,"Kent School District","Martin Sortun Elementary School",Student,Race,"Native Hawaiian or Other Pacific Islander",12,0.02,689
+2016-2017,"Kent School District","Martin Sortun Elementary School",Student,Race,"Two or more races",53,0.08,689
+2016-2017,"Kent School District","Martin Sortun Elementary School",Student,Race,White,195,0.28,689
+2016-2017,"Kent School District","Martin Sortun Elementary School",Teacher,Gender,Female,33,0.89,37
+2016-2017,"Kent School District","Martin Sortun Elementary School",Teacher,Gender,Male,4,0.11,37
+2016-2017,"Kent School District","Martin Sortun Elementary School",Teacher,Race,"American Indian or Alaska Native",1,0.03,37
+2016-2017,"Kent School District","Martin Sortun Elementary School",Teacher,Race,Asian,2,0.05,37
+2016-2017,"Kent School District","Martin Sortun Elementary School",Teacher,Race,"Black or African American",1,0.03,37
+2016-2017,"Kent School District","Martin Sortun Elementary School",Teacher,Race,"Native Hawaiian or Other Pacific Islander",1,0.03,37
+2016-2017,"Kent School District","Martin Sortun Elementary School",Teacher,Race,White,36,0.97,37
+2016-2017,"Kent School District","Mattson Middle School",Student,Gender,Female,286,0.45,633
+2016-2017,"Kent School District","Mattson Middle School",Student,Gender,Male,347,0.55,633
+2016-2017,"Kent School District","Mattson Middle School",Student,Hispanic,Hispanic,114,0.18,633
+2016-2017,"Kent School District","Mattson Middle School",Student,Race,"American Indian or Alaska Native",5,0.01,633
+2016-2017,"Kent School District","Mattson Middle School",Student,Race,Asian,87,0.14,633
+2016-2017,"Kent School District","Mattson Middle School",Student,Race,"Black or African American",36,0.06,633
+2016-2017,"Kent School District","Mattson Middle School",Student,Race,"Native Hawaiian or Other Pacific Islander",9,0.01,633
+2016-2017,"Kent School District","Mattson Middle School",Student,Race,"Two or more races",62,0.10,633
+2016-2017,"Kent School District","Mattson Middle School",Student,Race,White,320,0.51,633
+2016-2017,"Kent School District","Mattson Middle School",Teacher,Gender,Female,20,0.59,34
+2016-2017,"Kent School District","Mattson Middle School",Teacher,Gender,Male,14,0.41,34
+2016-2017,"Kent School District","Mattson Middle School",Teacher,Hispanic,Hispanic,1,0.03,34
+2016-2017,"Kent School District","Mattson Middle School",Teacher,Race,Asian,3,0.09,34
+2016-2017,"Kent School District","Mattson Middle School",Teacher,Race,"Black or African American",2,0.06,34
+2016-2017,"Kent School District","Mattson Middle School",Teacher,Race,White,29,0.85,34
+2016-2017,"Kent School District","Meadow Ridge Elementary School",Student,Gender,Female,232,0.44,530
+2016-2017,"Kent School District","Meadow Ridge Elementary School",Student,Gender,Male,298,0.56,530
+2016-2017,"Kent School District","Meadow Ridge Elementary School",Student,Hispanic,Hispanic,111,0.21,530
+2016-2017,"Kent School District","Meadow Ridge Elementary School",Student,Race,"American Indian or Alaska Native",3,0.01,530
+2016-2017,"Kent School District","Meadow Ridge Elementary School",Student,Race,Asian,145,0.27,530
+2016-2017,"Kent School District","Meadow Ridge Elementary School",Student,Race,"Black or African American",75,0.14,530
+2016-2017,"Kent School District","Meadow Ridge Elementary School",Student,Race,"Native Hawaiian or Other Pacific Islander",9,0.02,530
+2016-2017,"Kent School District","Meadow Ridge Elementary School",Student,Race,"Two or more races",37,0.07,530
+2016-2017,"Kent School District","Meadow Ridge Elementary School",Student,Race,White,150,0.28,530
+2016-2017,"Kent School District","Meadow Ridge Elementary School",Teacher,Gender,Female,38,0.93,41
+2016-2017,"Kent School District","Meadow Ridge Elementary School",Teacher,Gender,Male,3,0.07,41
+2016-2017,"Kent School District","Meadow Ridge Elementary School",Teacher,Hispanic,Hispanic,2,0.05,41
+2016-2017,"Kent School District","Meadow Ridge Elementary School",Teacher,Race,"American Indian or Alaska Native",2,0.05,41
+2016-2017,"Kent School District","Meadow Ridge Elementary School",Teacher,Race,Asian,2,0.05,41
+2016-2017,"Kent School District","Meadow Ridge Elementary School",Teacher,Race,"Black or African American",4,0.10,41
+2016-2017,"Kent School District","Meadow Ridge Elementary School",Teacher,Race,White,35,0.85,41
+2016-2017,"Kent School District","Meeker Middle School",Student,Gender,Female,283,0.47,608
+2016-2017,"Kent School District","Meeker Middle School",Student,Gender,Male,325,0.53,608
+2016-2017,"Kent School District","Meeker Middle School",Student,Hispanic,Hispanic,139,0.23,608
+2016-2017,"Kent School District","Meeker Middle School",Student,Race,"American Indian or Alaska Native",0,0.00,608
+2016-2017,"Kent School District","Meeker Middle School",Student,Race,Asian,172,0.28,608
+2016-2017,"Kent School District","Meeker Middle School",Student,Race,"Black or African American",89,0.15,608
+2016-2017,"Kent School District","Meeker Middle School",Student,Race,"Native Hawaiian or Other Pacific Islander",16,0.03,608
+2016-2017,"Kent School District","Meeker Middle School",Student,Race,"Two or more races",46,0.08,608
+2016-2017,"Kent School District","Meeker Middle School",Student,Race,White,146,0.24,608
+2016-2017,"Kent School District","Meeker Middle School",Teacher,Gender,Female,15,0.44,34
+2016-2017,"Kent School District","Meeker Middle School",Teacher,Gender,Male,19,0.56,34
+2016-2017,"Kent School District","Meeker Middle School",Teacher,Hispanic,Hispanic,2,0.06,34
+2016-2017,"Kent School District","Meeker Middle School",Teacher,Race,Asian,1,0.03,34
+2016-2017,"Kent School District","Meeker Middle School",Teacher,Race,"Black or African American",4,0.12,34
+2016-2017,"Kent School District","Meeker Middle School",Teacher,Race,White,30,0.88,34
+2016-2017,"Kent School District","Meridian Elementary School",Student,Gender,Female,297,0.46,646
+2016-2017,"Kent School District","Meridian Elementary School",Student,Gender,Male,349,0.54,646
+2016-2017,"Kent School District","Meridian Elementary School",Student,Hispanic,Hispanic,119,0.18,646
+2016-2017,"Kent School District","Meridian Elementary School",Student,Race,"American Indian or Alaska Native",1,0.00,646
+2016-2017,"Kent School District","Meridian Elementary School",Student,Race,Asian,123,0.19,646
+2016-2017,"Kent School District","Meridian Elementary School",Student,Race,"Black or African American",58,0.09,646
+2016-2017,"Kent School District","Meridian Elementary School",Student,Race,"Native Hawaiian or Other Pacific Islander",6,0.01,646
+2016-2017,"Kent School District","Meridian Elementary School",Student,Race,"Two or more races",68,0.11,646
+2016-2017,"Kent School District","Meridian Elementary School",Student,Race,White,271,0.42,646
+2016-2017,"Kent School District","Meridian Elementary School",Teacher,Gender,Female,39,0.89,44
+2016-2017,"Kent School District","Meridian Elementary School",Teacher,Gender,Male,5,0.11,44
+2016-2017,"Kent School District","Meridian Elementary School",Teacher,Hispanic,Hispanic,1,0.02,44
+2016-2017,"Kent School District","Meridian Elementary School",Teacher,Race,"American Indian or Alaska Native",1,0.02,44
+2016-2017,"Kent School District","Meridian Elementary School",Teacher,Race,Asian,3,0.07,44
+2016-2017,"Kent School District","Meridian Elementary School",Teacher,Race,"Black or African American",3,0.07,44
+2016-2017,"Kent School District","Meridian Elementary School",Teacher,Race,"Native Hawaiian or Other Pacific Islander",1,0.02,44
+2016-2017,"Kent School District","Meridian Elementary School",Teacher,Race,White,41,0.93,44
+2016-2017,"Kent School District","Meridian Middle School",Student,Gender,Female,286,0.48,597
+2016-2017,"Kent School District","Meridian Middle School",Student,Gender,Male,311,0.52,597
+2016-2017,"Kent School District","Meridian Middle School",Student,Hispanic,Hispanic,131,0.22,597
+2016-2017,"Kent School District","Meridian Middle School",Student,Race,"American Indian or Alaska Native",1,0.00,597
+2016-2017,"Kent School District","Meridian Middle School",Student,Race,Asian,156,0.26,597
+2016-2017,"Kent School District","Meridian Middle School",Student,Race,"Black or African American",83,0.14,597
+2016-2017,"Kent School District","Meridian Middle School",Student,Race,"Native Hawaiian or Other Pacific Islander",22,0.04,597
+2016-2017,"Kent School District","Meridian Middle School",Student,Race,"Two or more races",55,0.09,597
+2016-2017,"Kent School District","Meridian Middle School",Student,Race,White,149,0.25,597
+2016-2017,"Kent School District","Meridian Middle School",Teacher,Gender,Female,25,0.68,37
+2016-2017,"Kent School District","Meridian Middle School",Teacher,Gender,Male,12,0.32,37
+2016-2017,"Kent School District","Meridian Middle School",Teacher,Hispanic,Hispanic,1,0.03,37
+2016-2017,"Kent School District","Meridian Middle School",Teacher,Race,"American Indian or Alaska Native",1,0.03,37
+2016-2017,"Kent School District","Meridian Middle School",Teacher,Race,"Black or African American",1,0.03,37
+2016-2017,"Kent School District","Meridian Middle School",Teacher,Race,White,36,0.97,37
+2016-2017,"Kent School District","Mill Creek Middle School",Student,Gender,Female,405,0.49,825
+2016-2017,"Kent School District","Mill Creek Middle School",Student,Gender,Male,420,0.51,825
+2016-2017,"Kent School District","Mill Creek Middle School",Student,Hispanic,Hispanic,288,0.35,825
+2016-2017,"Kent School District","Mill Creek Middle School",Student,Race,"American Indian or Alaska Native",2,0.00,825
+2016-2017,"Kent School District","Mill Creek Middle School",Student,Race,Asian,139,0.17,825
+2016-2017,"Kent School District","Mill Creek Middle School",Student,Race,"Black or African American",139,0.17,825
+2016-2017,"Kent School District","Mill Creek Middle School",Student,Race,"Native Hawaiian or Other Pacific Islander",46,0.06,825
+2016-2017,"Kent School District","Mill Creek Middle School",Student,Race,"Two or more races",77,0.09,825
+2016-2017,"Kent School District","Mill Creek Middle School",Student,Race,White,134,0.16,825
+2016-2017,"Kent School District","Mill Creek Middle School",Teacher,Gender,Female,32,0.73,44
+2016-2017,"Kent School District","Mill Creek Middle School",Teacher,Gender,Male,12,0.27,44
+2016-2017,"Kent School District","Mill Creek Middle School",Teacher,Hispanic,Hispanic,3,0.07,44
+2016-2017,"Kent School District","Mill Creek Middle School",Teacher,Race,Asian,3,0.07,44
+2016-2017,"Kent School District","Mill Creek Middle School",Teacher,Race,"Black or African American",5,0.11,44
+2016-2017,"Kent School District","Mill Creek Middle School",Teacher,Race,White,36,0.82,44
+2016-2017,"Kent School District","Millennium Elementary School",Student,Gender,Female,293,0.49,602
+2016-2017,"Kent School District","Millennium Elementary School",Student,Gender,Male,309,0.51,602
+2016-2017,"Kent School District","Millennium Elementary School",Student,Hispanic,Hispanic,157,0.26,602
+2016-2017,"Kent School District","Millennium Elementary School",Student,Race,"American Indian or Alaska Native",1,0.00,602
+2016-2017,"Kent School District","Millennium Elementary School",Student,Race,Asian,116,0.19,602
+2016-2017,"Kent School District","Millennium Elementary School",Student,Race,"Black or African American",91,0.15,602
+2016-2017,"Kent School District","Millennium Elementary School",Student,Race,"Native Hawaiian or Other Pacific Islander",18,0.03,602
+2016-2017,"Kent School District","Millennium Elementary School",Student,Race,"Two or more races",44,0.07,602
+2016-2017,"Kent School District","Millennium Elementary School",Student,Race,White,175,0.29,602
+2016-2017,"Kent School District","Millennium Elementary School",Teacher,Gender,Female,33,0.94,35
+2016-2017,"Kent School District","Millennium Elementary School",Teacher,Gender,Male,2,0.06,35
+2016-2017,"Kent School District","Millennium Elementary School",Teacher,Hispanic,Hispanic,1,0.03,35
+2016-2017,"Kent School District","Millennium Elementary School",Teacher,Race,"American Indian or Alaska Native",2,0.06,35
+2016-2017,"Kent School District","Millennium Elementary School",Teacher,Race,Asian,4,0.11,35
+2016-2017,"Kent School District","Millennium Elementary School",Teacher,Race,"Black or African American",2,0.06,35
+2016-2017,"Kent School District","Millennium Elementary School",Teacher,Race,"Native Hawaiian or Other Pacific Islander",1,0.03,35
+2016-2017,"Kent School District","Millennium Elementary School",Teacher,Race,White,30,0.86,35
+2016-2017,"Kent School District","Neely O Brien Elementary School",Student,Gender,Female,372,0.48,769
+2016-2017,"Kent School District","Neely O Brien Elementary School",Student,Gender,Male,397,0.52,769
+2016-2017,"Kent School District","Neely O Brien Elementary School",Student,Hispanic,Hispanic,270,0.35,769
+2016-2017,"Kent School District","Neely O Brien Elementary School",Student,Race,"American Indian or Alaska Native",2,0.00,769
+2016-2017,"Kent School District","Neely O Brien Elementary School",Student,Race,Asian,137,0.18,769
+2016-2017,"Kent School District","Neely O Brien Elementary School",Student,Race,"Black or African American",120,0.16,769
+2016-2017,"Kent School District","Neely O Brien Elementary School",Student,Race,"Native Hawaiian or Other Pacific Islander",45,0.06,769
+2016-2017,"Kent School District","Neely O Brien Elementary School",Student,Race,"Two or more races",92,0.12,769
+2016-2017,"Kent School District","Neely O Brien Elementary School",Student,Race,White,103,0.13,769
+2016-2017,"Kent School District","Neely O Brien Elementary School",Teacher,Gender,Female,41,0.89,46
+2016-2017,"Kent School District","Neely O Brien Elementary School",Teacher,Gender,Male,5,0.11,46
+2016-2017,"Kent School District","Neely O Brien Elementary School",Teacher,Hispanic,Hispanic,4,0.09,46
+2016-2017,"Kent School District","Neely O Brien Elementary School",Teacher,Race,"American Indian or Alaska Native",1,0.02,46
+2016-2017,"Kent School District","Neely O Brien Elementary School",Teacher,Race,Asian,5,0.11,46
+2016-2017,"Kent School District","Neely O Brien Elementary School",Teacher,Race,"Black or African American",3,0.07,46
+2016-2017,"Kent School District","Neely O Brien Elementary School",Teacher,Race,"Native Hawaiian or Other Pacific Islander",1,0.02,46
+2016-2017,"Kent School District","Neely O Brien Elementary School",Teacher,Race,White,41,0.89,46
+2016-2017,"Kent School District","Northwood Middle School",Student,Gender,Female,332,0.51,649
+2016-2017,"Kent School District","Northwood Middle School",Student,Gender,Male,317,0.49,649
+2016-2017,"Kent School District","Northwood Middle School",Student,Hispanic,Hispanic,69,0.11,649
+2016-2017,"Kent School District","Northwood Middle School",Student,Race,"American Indian or Alaska Native",2,0.00,649
+2016-2017,"Kent School District","Northwood Middle School",Student,Race,Asian,144,0.22,649
+2016-2017,"Kent School District","Northwood Middle School",Student,Race,"Black or African American",58,0.09,649
+2016-2017,"Kent School District","Northwood Middle School",Student,Race,"Native Hawaiian or Other Pacific Islander",7,0.01,649
+2016-2017,"Kent School District","Northwood Middle School",Student,Race,"Two or more races",81,0.12,649
+2016-2017,"Kent School District","Northwood Middle School",Student,Race,White,288,0.44,649
+2016-2017,"Kent School District","Northwood Middle School",Teacher,Gender,Female,26,0.70,37
+2016-2017,"Kent School District","Northwood Middle School",Teacher,Gender,Male,11,0.30,37
+2016-2017,"Kent School District","Northwood Middle School",Teacher,Hispanic,Hispanic,4,0.11,37
+2016-2017,"Kent School District","Northwood Middle School",Teacher,Race,"American Indian or Alaska Native",1,0.03,37
+2016-2017,"Kent School District","Northwood Middle School",Teacher,Race,Asian,2,0.05,37
+2016-2017,"Kent School District","Northwood Middle School",Teacher,Race,"Black or African American",2,0.05,37
+2016-2017,"Kent School District","Northwood Middle School",Teacher,Race,"Native Hawaiian or Other Pacific Islander",1,0.03,37
+2016-2017,"Kent School District","Northwood Middle School",Teacher,Race,White,35,0.95,37
+2016-2017,"Kent School District","Panther Lake Elementary School",Student,Gender,Female,328,0.49,676
+2016-2017,"Kent School District","Panther Lake Elementary School",Student,Gender,Male,348,0.51,676
+2016-2017,"Kent School District","Panther Lake Elementary School",Student,Hispanic,Hispanic,206,0.30,676
+2016-2017,"Kent School District","Panther Lake Elementary School",Student,Race,"American Indian or Alaska Native",0,0.00,676
+2016-2017,"Kent School District","Panther Lake Elementary School",Student,Race,Asian,130,0.19,676
+2016-2017,"Kent School District","Panther Lake Elementary School",Student,Race,"Black or African American",105,0.16,676
+2016-2017,"Kent School District","Panther Lake Elementary School",Student,Race,"Native Hawaiian or Other Pacific Islander",19,0.03,676
+2016-2017,"Kent School District","Panther Lake Elementary School",Student,Race,"Two or more races",81,0.12,676
+2016-2017,"Kent School District","Panther Lake Elementary School",Student,Race,White,135,0.20,676
+2016-2017,"Kent School District","Panther Lake Elementary School",Teacher,Gender,Female,36,0.92,39
+2016-2017,"Kent School District","Panther Lake Elementary School",Teacher,Gender,Male,3,0.08,39
+2016-2017,"Kent School District","Panther Lake Elementary School",Teacher,Hispanic,Hispanic,1,0.03,39
+2016-2017,"Kent School District","Panther Lake Elementary School",Teacher,Race,"American Indian or Alaska Native",1,0.03,39
+2016-2017,"Kent School District","Panther Lake Elementary School",Teacher,Race,Asian,3,0.08,39
+2016-2017,"Kent School District","Panther Lake Elementary School",Teacher,Race,"Black or African American",1,0.03,39
+2016-2017,"Kent School District","Panther Lake Elementary School",Teacher,Race,"Native Hawaiian or Other Pacific Islander",2,0.05,39
+2016-2017,"Kent School District","Panther Lake Elementary School",Teacher,Race,White,35,0.90,39
+2016-2017,"Kent School District","Park Orchard Elementary School",Student,Gender,Female,243,0.46,533
+2016-2017,"Kent School District","Park Orchard Elementary School",Student,Gender,Male,290,0.54,533
+2016-2017,"Kent School District","Park Orchard Elementary School",Student,Hispanic,Hispanic,204,0.38,533
+2016-2017,"Kent School District","Park Orchard Elementary School",Student,Race,"American Indian or Alaska Native",4,0.01,533
+2016-2017,"Kent School District","Park Orchard Elementary School",Student,Race,Asian,99,0.19,533
+2016-2017,"Kent School District","Park Orchard Elementary School",Student,Race,"Black or African American",74,0.14,533
+2016-2017,"Kent School District","Park Orchard Elementary School",Student,Race,"Native Hawaiian or Other Pacific Islander",11,0.02,533
+2016-2017,"Kent School District","Park Orchard Elementary School",Student,Race,"Two or more races",56,0.11,533
+2016-2017,"Kent School District","Park Orchard Elementary School",Student,Race,White,85,0.16,533
+2016-2017,"Kent School District","Park Orchard Elementary School",Teacher,Gender,Female,32,0.89,36
+2016-2017,"Kent School District","Park Orchard Elementary School",Teacher,Gender,Male,4,0.11,36
+2016-2017,"Kent School District","Park Orchard Elementary School",Teacher,Hispanic,Hispanic,1,0.03,36
+2016-2017,"Kent School District","Park Orchard Elementary School",Teacher,Race,"American Indian or Alaska Native",1,0.03,36
+2016-2017,"Kent School District","Park Orchard Elementary School",Teacher,Race,Asian,5,0.14,36
+2016-2017,"Kent School District","Park Orchard Elementary School",Teacher,Race,"Black or African American",2,0.06,36
+2016-2017,"Kent School District","Park Orchard Elementary School",Teacher,Race,"Native Hawaiian or Other Pacific Islander",1,0.03,36
+2016-2017,"Kent School District","Park Orchard Elementary School",Teacher,Race,White,33,0.92,36
+2016-2017,"Kent School District","Pine Tree Elementary School",Student,Gender,Female,204,0.48,424
+2016-2017,"Kent School District","Pine Tree Elementary School",Student,Gender,Male,220,0.52,424
+2016-2017,"Kent School District","Pine Tree Elementary School",Student,Hispanic,Hispanic,103,0.24,424
+2016-2017,"Kent School District","Pine Tree Elementary School",Student,Race,"American Indian or Alaska Native",1,0.00,424
+2016-2017,"Kent School District","Pine Tree Elementary School",Student,Race,Asian,66,0.16,424
+2016-2017,"Kent School District","Pine Tree Elementary School",Student,Race,"Black or African American",77,0.18,424
+2016-2017,"Kent School District","Pine Tree Elementary School",Student,Race,"Native Hawaiian or Other Pacific Islander",21,0.05,424
+2016-2017,"Kent School District","Pine Tree Elementary School",Student,Race,"Two or more races",47,0.11,424
+2016-2017,"Kent School District","Pine Tree Elementary School",Student,Race,White,109,0.26,424
+2016-2017,"Kent School District","Pine Tree Elementary School",Teacher,Gender,Female,26,0.90,29
+2016-2017,"Kent School District","Pine Tree Elementary School",Teacher,Gender,Male,3,0.10,29
+2016-2017,"Kent School District","Pine Tree Elementary School",Teacher,Hispanic,Hispanic,1,0.03,29
+2016-2017,"Kent School District","Pine Tree Elementary School",Teacher,Race,Asian,3,0.10,29
+2016-2017,"Kent School District","Pine Tree Elementary School",Teacher,Race,"Black or African American",2,0.07,29
+2016-2017,"Kent School District","Pine Tree Elementary School",Teacher,Race,"Native Hawaiian or Other Pacific Islander",1,0.03,29
+2016-2017,"Kent School District","Pine Tree Elementary School",Teacher,Race,White,24,0.83,29
+2016-2017,"Kent School District","Regional Justice Center",Student,Gender,Female,0,0.00,12
+2016-2017,"Kent School District","Regional Justice Center",Student,Gender,Male,12,1.00,12
+2016-2017,"Kent School District","Regional Justice Center",Student,Hispanic,Hispanic,0,0.00,12
+2016-2017,"Kent School District","Regional Justice Center",Student,Race,"American Indian or Alaska Native",0,0.00,12
+2016-2017,"Kent School District","Regional Justice Center",Student,Race,Asian,1,0.08,12
+2016-2017,"Kent School District","Regional Justice Center",Student,Race,"Black or African American",6,0.50,12
+2016-2017,"Kent School District","Regional Justice Center",Student,Race,"Native Hawaiian or Other Pacific Islander",3,0.25,12
+2016-2017,"Kent School District","Regional Justice Center",Student,Race,"Two or more races",1,0.08,12
+2016-2017,"Kent School District","Regional Justice Center",Student,Race,White,1,0.08,12
+2016-2017,"Kent School District","Regional Justice Center",Teacher,Gender,Female,1,1.00,1
+2016-2017,"Kent School District","Regional Justice Center",Teacher,Race,White,1,1.00,1
+2016-2017,"Kent School District","Ridgewood Elementary School",Student,Gender,Female,225,0.45,495
+2016-2017,"Kent School District","Ridgewood Elementary School",Student,Gender,Male,270,0.55,495
+2016-2017,"Kent School District","Ridgewood Elementary School",Student,Hispanic,Hispanic,58,0.12,495
+2016-2017,"Kent School District","Ridgewood Elementary School",Student,Race,"American Indian or Alaska Native",1,0.00,495
+2016-2017,"Kent School District","Ridgewood Elementary School",Student,Race,Asian,123,0.25,495
+2016-2017,"Kent School District","Ridgewood Elementary School",Student,Race,"Black or African American",31,0.06,495
+2016-2017,"Kent School District","Ridgewood Elementary School",Student,Race,"Native Hawaiian or Other Pacific Islander",4,0.01,495
+2016-2017,"Kent School District","Ridgewood Elementary School",Student,Race,"Two or more races",70,0.14,495
+2016-2017,"Kent School District","Ridgewood Elementary School",Student,Race,White,208,0.42,495
+2016-2017,"Kent School District","Ridgewood Elementary School",Teacher,Gender,Female,24,0.77,31
+2016-2017,"Kent School District","Ridgewood Elementary School",Teacher,Gender,Male,7,0.23,31
+2016-2017,"Kent School District","Ridgewood Elementary School",Teacher,Hispanic,Hispanic,3,0.10,31
+2016-2017,"Kent School District","Ridgewood Elementary School",Teacher,Race,Asian,2,0.06,31
+2016-2017,"Kent School District","Ridgewood Elementary School",Teacher,Race,White,29,0.94,31
+2016-2017,"Kent School District","Sawyer Woods Elementary School",Student,Gender,Female,226,0.49,461
+2016-2017,"Kent School District","Sawyer Woods Elementary School",Student,Gender,Male,235,0.51,461
+2016-2017,"Kent School District","Sawyer Woods Elementary School",Student,Hispanic,Hispanic,39,0.08,461
+2016-2017,"Kent School District","Sawyer Woods Elementary School",Student,Race,"American Indian or Alaska Native",1,0.00,461
+2016-2017,"Kent School District","Sawyer Woods Elementary School",Student,Race,Asian,24,0.05,461
+2016-2017,"Kent School District","Sawyer Woods Elementary School",Student,Race,"Black or African American",7,0.02,461
+2016-2017,"Kent School District","Sawyer Woods Elementary School",Student,Race,"Native Hawaiian or Other Pacific Islander",2,0.00,461
+2016-2017,"Kent School District","Sawyer Woods Elementary School",Student,Race,"Two or more races",61,0.13,461
+2016-2017,"Kent School District","Sawyer Woods Elementary School",Student,Race,White,327,0.71,461
+2016-2017,"Kent School District","Sawyer Woods Elementary School",Teacher,Gender,Female,28,0.90,31
+2016-2017,"Kent School District","Sawyer Woods Elementary School",Teacher,Gender,Male,3,0.10,31
+2016-2017,"Kent School District","Sawyer Woods Elementary School",Teacher,Hispanic,Hispanic,1,0.03,31
+2016-2017,"Kent School District","Sawyer Woods Elementary School",Teacher,Race,"American Indian or Alaska Native",1,0.03,31
+2016-2017,"Kent School District","Sawyer Woods Elementary School",Teacher,Race,White,30,0.97,31
+2016-2017,"Kent School District","Scenic Hill Elementary School",Student,Gender,Female,292,0.48,608
+2016-2017,"Kent School District","Scenic Hill Elementary School",Student,Gender,Male,316,0.52,608
+2016-2017,"Kent School District","Scenic Hill Elementary School",Student,Hispanic,Hispanic,260,0.43,608
+2016-2017,"Kent School District","Scenic Hill Elementary School",Student,Race,"American Indian or Alaska Native",1,0.00,608
+2016-2017,"Kent School District","Scenic Hill Elementary School",Student,Race,Asian,47,0.08,608
+2016-2017,"Kent School District","Scenic Hill Elementary School",Student,Race,"Black or African American",112,0.18,608
+2016-2017,"Kent School District","Scenic Hill Elementary School",Student,Race,"Native Hawaiian or Other Pacific Islander",22,0.04,608
+2016-2017,"Kent School District","Scenic Hill Elementary School",Student,Race,"Two or more races",60,0.10,608
+2016-2017,"Kent School District","Scenic Hill Elementary School",Student,Race,White,106,0.17,608
+2016-2017,"Kent School District","Scenic Hill Elementary School",Teacher,Gender,Female,32,0.82,39
+2016-2017,"Kent School District","Scenic Hill Elementary School",Teacher,Gender,Male,7,0.18,39
+2016-2017,"Kent School District","Scenic Hill Elementary School",Teacher,Hispanic,Hispanic,6,0.15,39
+2016-2017,"Kent School District","Scenic Hill Elementary School",Teacher,Race,"American Indian or Alaska Native",2,0.05,39
+2016-2017,"Kent School District","Scenic Hill Elementary School",Teacher,Race,Asian,2,0.05,39
+2016-2017,"Kent School District","Scenic Hill Elementary School",Teacher,Race,"Black or African American",2,0.05,39
+2016-2017,"Kent School District","Scenic Hill Elementary School",Teacher,Race,White,34,0.87,39
+2016-2017,"Kent School District","Soos Creek Elementary School",Student,Gender,Female,182,0.46,400
+2016-2017,"Kent School District","Soos Creek Elementary School",Student,Gender,Male,218,0.55,400
+2016-2017,"Kent School District","Soos Creek Elementary School",Student,Hispanic,Hispanic,71,0.18,400
+2016-2017,"Kent School District","Soos Creek Elementary School",Student,Race,"American Indian or Alaska Native",1,0.00,400
+2016-2017,"Kent School District","Soos Creek Elementary School",Student,Race,Asian,76,0.19,400
+2016-2017,"Kent School District","Soos Creek Elementary School",Student,Race,"Black or African American",34,0.09,400
+2016-2017,"Kent School District","Soos Creek Elementary School",Student,Race,"Native Hawaiian or Other Pacific Islander",21,0.05,400
+2016-2017,"Kent School District","Soos Creek Elementary School",Student,Race,"Two or more races",54,0.14,400
+2016-2017,"Kent School District","Soos Creek Elementary School",Student,Race,White,143,0.36,400
+2016-2017,"Kent School District","Soos Creek Elementary School",Teacher,Gender,Female,26,0.90,29
+2016-2017,"Kent School District","Soos Creek Elementary School",Teacher,Gender,Male,3,0.10,29
+2016-2017,"Kent School District","Soos Creek Elementary School",Teacher,Hispanic,Hispanic,1,0.03,29
+2016-2017,"Kent School District","Soos Creek Elementary School",Teacher,Race,"American Indian or Alaska Native",2,0.07,29
+2016-2017,"Kent School District","Soos Creek Elementary School",Teacher,Race,Asian,4,0.14,29
+2016-2017,"Kent School District","Soos Creek Elementary School",Teacher,Race,"Black or African American",1,0.03,29
+2016-2017,"Kent School District","Soos Creek Elementary School",Teacher,Race,"Native Hawaiian or Other Pacific Islander",1,0.03,29
+2016-2017,"Kent School District","Soos Creek Elementary School",Teacher,Race,White,25,0.86,29
+2016-2017,"Kent School District","Springbrook Elementary School",Student,Gender,Female,252,0.46,545
+2016-2017,"Kent School District","Springbrook Elementary School",Student,Gender,Male,293,0.54,545
+2016-2017,"Kent School District","Springbrook Elementary School",Student,Hispanic,Hispanic,213,0.39,545
+2016-2017,"Kent School District","Springbrook Elementary School",Student,Race,"American Indian or Alaska Native",4,0.01,545
+2016-2017,"Kent School District","Springbrook Elementary School",Student,Race,Asian,99,0.18,545
+2016-2017,"Kent School District","Springbrook Elementary School",Student,Race,"Black or African American",73,0.13,545
+2016-2017,"Kent School District","Springbrook Elementary School",Student,Race,"Native Hawaiian or Other Pacific Islander",35,0.06,545
+2016-2017,"Kent School District","Springbrook Elementary School",Student,Race,"Two or more races",33,0.06,545
+2016-2017,"Kent School District","Springbrook Elementary School",Student,Race,White,88,0.16,545
+2016-2017,"Kent School District","Springbrook Elementary School",Teacher,Gender,Female,27,0.73,37
+2016-2017,"Kent School District","Springbrook Elementary School",Teacher,Gender,Male,10,0.27,37
+2016-2017,"Kent School District","Springbrook Elementary School",Teacher,Race,Asian,4,0.11,37
+2016-2017,"Kent School District","Springbrook Elementary School",Teacher,Race,"Black or African American",1,0.03,37
+2016-2017,"Kent School District","Springbrook Elementary School",Teacher,Race,"Native Hawaiian or Other Pacific Islander",1,0.03,37
+2016-2017,"Kent School District","Springbrook Elementary School",Teacher,Race,White,32,0.86,37
+2016-2017,"Kent School District","Sunrise Elementary School",Student,Gender,Female,328,0.52,629
+2016-2017,"Kent School District","Sunrise Elementary School",Student,Gender,Male,301,0.48,629
+2016-2017,"Kent School District","Sunrise Elementary School",Student,Hispanic,Hispanic,80,0.13,629
+2016-2017,"Kent School District","Sunrise Elementary School",Student,Race,"American Indian or Alaska Native",0,0.00,629
+2016-2017,"Kent School District","Sunrise Elementary School",Student,Race,Asian,209,0.33,629
+2016-2017,"Kent School District","Sunrise Elementary School",Student,Race,"Black or African American",59,0.09,629
+2016-2017,"Kent School District","Sunrise Elementary School",Student,Race,"Native Hawaiian or Other Pacific Islander",8,0.01,629
+2016-2017,"Kent School District","Sunrise Elementary School",Student,Race,"Two or more races",78,0.12,629
+2016-2017,"Kent School District","Sunrise Elementary School",Student,Race,White,195,0.31,629
+2016-2017,"Kent School District","Sunrise Elementary School",Teacher,Gender,Female,34,0.92,37
+2016-2017,"Kent School District","Sunrise Elementary School",Teacher,Gender,Male,3,0.08,37
+2016-2017,"Kent School District","Sunrise Elementary School",Teacher,Race,Asian,1,0.03,37
+2016-2017,"Kent School District","Sunrise Elementary School",Teacher,Race,"Black or African American",3,0.08,37
+2016-2017,"Kent School District","Sunrise Elementary School",Teacher,Race,White,33,0.89,37
+2016-2017,"Kent School District","The Outreach Program",Student,Gender,Female,26,0.41,63
+2016-2017,"Kent School District","The Outreach Program",Student,Gender,Male,37,0.59,63
+2016-2017,"Kent School District","The Outreach Program",Student,Hispanic,Hispanic,8,0.13,63
+2016-2017,"Kent School District","The Outreach Program",Student,Race,"American Indian or Alaska Native",0,0.00,63
+2016-2017,"Kent School District","The Outreach Program",Student,Race,Asian,13,0.21,63
+2016-2017,"Kent School District","The Outreach Program",Student,Race,"Black or African American",11,0.17,63
+2016-2017,"Kent School District","The Outreach Program",Student,Race,"Native Hawaiian or Other Pacific Islander",0,0.00,63
+2016-2017,"Kent School District","The Outreach Program",Student,Race,"Two or more races",9,0.14,63
+2016-2017,"Kent School District","The Outreach Program",Student,Race,White,22,0.35,63
+2016-2017,"Kent School District","The Outreach Program",Teacher,Gender,Female,1,0.50,2
+2016-2017,"Kent School District","The Outreach Program",Teacher,Gender,Male,1,0.50,2
+2016-2017,"Kent School District","The Outreach Program",Teacher,Race,White,2,1.00,2
+2016-2017,"Renton School District","Benson Hill Elementary School",Student,Gender,Female,283,0.49,575
+2016-2017,"Renton School District","Benson Hill Elementary School",Student,Gender,Male,292,0.51,575
+2016-2017,"Renton School District","Benson Hill Elementary School",Student,Hispanic,Hispanic,81,0.14,575
+2016-2017,"Renton School District","Benson Hill Elementary School",Student,Race,"American Indian or Alaska Native",4,0.01,575
+2016-2017,"Renton School District","Benson Hill Elementary School",Student,Race,Asian,189,0.33,575
+2016-2017,"Renton School District","Benson Hill Elementary School",Student,Race,"Black or African American",83,0.14,575
+2016-2017,"Renton School District","Benson Hill Elementary School",Student,Race,"Native Hawaiian or Other Pacific Islander",7,0.01,575
+2016-2017,"Renton School District","Benson Hill Elementary School",Student,Race,"Two or more races",77,0.13,575
+2016-2017,"Renton School District","Benson Hill Elementary School",Student,Race,White,134,0.23,575
+2016-2017,"Renton School District","Benson Hill Elementary School",Teacher,Gender,Female,31,0.86,36
+2016-2017,"Renton School District","Benson Hill Elementary School",Teacher,Gender,Male,5,0.14,36
+2016-2017,"Renton School District","Benson Hill Elementary School",Teacher,Race,"American Indian or Alaska Native",2,0.06,36
+2016-2017,"Renton School District","Benson Hill Elementary School",Teacher,Race,Asian,2,0.06,36
+2016-2017,"Renton School District","Benson Hill Elementary School",Teacher,Race,"Native Hawaiian or Other Pacific Islander",1,0.03,36
+2016-2017,"Renton School District","Benson Hill Elementary School",Teacher,Race,White,34,0.94,36
+2016-2017,"Renton School District","Bryn Mawr Elementary School",Student,Gender,Female,241,0.49,489
+2016-2017,"Renton School District","Bryn Mawr Elementary School",Student,Gender,Male,248,0.51,489
+2016-2017,"Renton School District","Bryn Mawr Elementary School",Student,Hispanic,Hispanic,116,0.24,489
+2016-2017,"Renton School District","Bryn Mawr Elementary School",Student,Race,"American Indian or Alaska Native",5,0.01,489
+2016-2017,"Renton School District","Bryn Mawr Elementary School",Student,Race,Asian,135,0.28,489
+2016-2017,"Renton School District","Bryn Mawr Elementary School",Student,Race,"Black or African American",121,0.25,489
+2016-2017,"Renton School District","Bryn Mawr Elementary School",Student,Race,"Native Hawaiian or Other Pacific Islander",4,0.01,489
+2016-2017,"Renton School District","Bryn Mawr Elementary School",Student,Race,"Two or more races",56,0.11,489
+2016-2017,"Renton School District","Bryn Mawr Elementary School",Student,Race,White,52,0.11,489
+2016-2017,"Renton School District","Bryn Mawr Elementary School",Teacher,Gender,Female,31,0.82,38
+2016-2017,"Renton School District","Bryn Mawr Elementary School",Teacher,Gender,Male,7,0.18,38
+2016-2017,"Renton School District","Bryn Mawr Elementary School",Teacher,Hispanic,Hispanic,2,0.05,38
+2016-2017,"Renton School District","Bryn Mawr Elementary School",Teacher,Race,"American Indian or Alaska Native",2,0.05,38
+2016-2017,"Renton School District","Bryn Mawr Elementary School",Teacher,Race,Asian,3,0.08,38
+2016-2017,"Renton School District","Bryn Mawr Elementary School",Teacher,Race,"Black or African American",4,0.11,38
+2016-2017,"Renton School District","Bryn Mawr Elementary School",Teacher,Race,White,34,0.89,38
+2016-2017,"Renton School District","Campbell Hill Elementary School",Student,Gender,Female,231,0.48,480
+2016-2017,"Renton School District","Campbell Hill Elementary School",Student,Gender,Male,249,0.52,480
+2016-2017,"Renton School District","Campbell Hill Elementary School",Student,Hispanic,Hispanic,104,0.22,480
+2016-2017,"Renton School District","Campbell Hill Elementary School",Student,Race,"American Indian or Alaska Native",6,0.01,480
+2016-2017,"Renton School District","Campbell Hill Elementary School",Student,Race,Asian,115,0.24,480
+2016-2017,"Renton School District","Campbell Hill Elementary School",Student,Race,"Black or African American",171,0.36,480
+2016-2017,"Renton School District","Campbell Hill Elementary School",Student,Race,"Native Hawaiian or Other Pacific Islander",8,0.02,480
+2016-2017,"Renton School District","Campbell Hill Elementary School",Student,Race,"Two or more races",41,0.09,480
+2016-2017,"Renton School District","Campbell Hill Elementary School",Student,Race,White,35,0.07,480
+2016-2017,"Renton School District","Campbell Hill Elementary School",Teacher,Gender,Female,35,0.88,40
+2016-2017,"Renton School District","Campbell Hill Elementary School",Teacher,Gender,Male,5,0.13,40
+2016-2017,"Renton School District","Campbell Hill Elementary School",Teacher,Hispanic,Hispanic,1,0.03,40
+2016-2017,"Renton School District","Campbell Hill Elementary School",Teacher,Race,Asian,5,0.13,40
+2016-2017,"Renton School District","Campbell Hill Elementary School",Teacher,Race,"Black or African American",5,0.13,40
+2016-2017,"Renton School District","Campbell Hill Elementary School",Teacher,Race,White,32,0.80,40
+2016-2017,"Renton School District","Cascade Elementary School",Student,Gender,Female,293,0.54,547
+2016-2017,"Renton School District","Cascade Elementary School",Student,Gender,Male,254,0.46,547
+2016-2017,"Renton School District","Cascade Elementary School",Student,Hispanic,Hispanic,162,0.30,547
+2016-2017,"Renton School District","Cascade Elementary School",Student,Race,"American Indian or Alaska Native",5,0.01,547
+2016-2017,"Renton School District","Cascade Elementary School",Student,Race,Asian,98,0.18,547
+2016-2017,"Renton School District","Cascade Elementary School",Student,Race,"Black or African American",82,0.15,547
+2016-2017,"Renton School District","Cascade Elementary School",Student,Race,"Native Hawaiian or Other Pacific Islander",12,0.02,547
+2016-2017,"Renton School District","Cascade Elementary School",Student,Race,"Two or more races",78,0.14,547
+2016-2017,"Renton School District","Cascade Elementary School",Student,Race,White,110,0.20,547
+2016-2017,"Renton School District","Cascade Elementary School",Teacher,Gender,Female,31,0.79,39
+2016-2017,"Renton School District","Cascade Elementary School",Teacher,Gender,Male,8,0.21,39
+2016-2017,"Renton School District","Cascade Elementary School",Teacher,Hispanic,Hispanic,1,0.03,39
+2016-2017,"Renton School District","Cascade Elementary School",Teacher,Race,"American Indian or Alaska Native",1,0.03,39
+2016-2017,"Renton School District","Cascade Elementary School",Teacher,Race,Asian,5,0.13,39
+2016-2017,"Renton School District","Cascade Elementary School",Teacher,Race,White,35,0.90,39
+2016-2017,"Renton School District","Dimmitt Middle School",Student,Gender,Female,506,0.54,938
+2016-2017,"Renton School District","Dimmitt Middle School",Student,Gender,Male,432,0.46,938
+2016-2017,"Renton School District","Dimmitt Middle School",Student,Hispanic,Hispanic,266,0.28,938
+2016-2017,"Renton School District","Dimmitt Middle School",Student,Race,"American Indian or Alaska Native",1,0.00,938
+2016-2017,"Renton School District","Dimmitt Middle School",Student,Race,Asian,236,0.25,938
+2016-2017,"Renton School District","Dimmitt Middle School",Student,Race,"Black or African American",239,0.25,938
+2016-2017,"Renton School District","Dimmitt Middle School",Student,Race,"Native Hawaiian or Other Pacific Islander",16,0.02,938
+2016-2017,"Renton School District","Dimmitt Middle School",Student,Race,"Two or more races",78,0.08,938
+2016-2017,"Renton School District","Dimmitt Middle School",Student,Race,White,102,0.11,938
+2016-2017,"Renton School District","Dimmitt Middle School",Teacher,Gender,Female,33,0.65,51
+2016-2017,"Renton School District","Dimmitt Middle School",Teacher,Gender,Male,18,0.35,51
+2016-2017,"Renton School District","Dimmitt Middle School",Teacher,Hispanic,Hispanic,1,0.02,51
+2016-2017,"Renton School District","Dimmitt Middle School",Teacher,Race,Asian,7,0.14,51
+2016-2017,"Renton School District","Dimmitt Middle School",Teacher,Race,"Black or African American",3,0.06,51
+2016-2017,"Renton School District","Dimmitt Middle School",Teacher,Race,White,42,0.82,51
+2016-2017,"Renton School District","Griffin Home",Student,Gender,Female,0,0.00,6
+2016-2017,"Renton School District","Griffin Home",Student,Gender,Male,6,1.00,6
+2016-2017,"Renton School District","Griffin Home",Student,Hispanic,Hispanic,1,0.17,6
+2016-2017,"Renton School District","Griffin Home",Student,Race,"American Indian or Alaska Native",2,0.33,6
+2016-2017,"Renton School District","Griffin Home",Student,Race,Asian,0,0.00,6
+2016-2017,"Renton School District","Griffin Home",Student,Race,"Black or African American",1,0.17,6
+2016-2017,"Renton School District","Griffin Home",Student,Race,"Native Hawaiian or Other Pacific Islander",0,0.00,6
+2016-2017,"Renton School District","Griffin Home",Student,Race,"Two or more races",1,0.17,6
+2016-2017,"Renton School District","Griffin Home",Student,Race,White,1,0.17,6
+2016-2017,"Renton School District","Griffin Home",Teacher,Gender,Male,1,1.00,1
+2016-2017,"Renton School District","Griffin Home",Teacher,Race,White,1,1.00,1
+2016-2017,"Renton School District","H.O.M.E. Program",Student,Gender,Female,71,0.56,127
+2016-2017,"Renton School District","H.O.M.E. Program",Student,Gender,Male,56,0.44,127
+2016-2017,"Renton School District","H.O.M.E. Program",Student,Hispanic,Hispanic,2,0.02,127
+2016-2017,"Renton School District","H.O.M.E. Program",Student,Race,"American Indian or Alaska Native",1,0.01,127
+2016-2017,"Renton School District","H.O.M.E. Program",Student,Race,Asian,6,0.05,127
+2016-2017,"Renton School District","H.O.M.E. Program",Student,Race,"Black or African American",11,0.09,127
+2016-2017,"Renton School District","H.O.M.E. Program",Student,Race,"Native Hawaiian or Other Pacific Islander",1,0.01,127
+2016-2017,"Renton School District","H.O.M.E. Program",Student,Race,"Two or more races",5,0.04,127
+2016-2017,"Renton School District","H.O.M.E. Program",Student,Race,White,101,0.80,127
+2016-2017,"Renton School District","H.O.M.E. Program",Teacher,Gender,Female,6,1.00,6
+2016-2017,"Renton School District","H.O.M.E. Program",Teacher,Race,White,6,1.00,6
+2016-2017,"Renton School District","Hazelwood Elementary School",Student,Gender,Female,287,0.47,616
+2016-2017,"Renton School District","Hazelwood Elementary School",Student,Gender,Male,329,0.53,616
+2016-2017,"Renton School District","Hazelwood Elementary School",Student,Hispanic,Hispanic,67,0.11,616
+2016-2017,"Renton School District","Hazelwood Elementary School",Student,Race,"American Indian or Alaska Native",5,0.01,616
+2016-2017,"Renton School District","Hazelwood Elementary School",Student,Race,Asian,139,0.23,616
+2016-2017,"Renton School District","Hazelwood Elementary School",Student,Race,"Black or African American",27,0.04,616
+2016-2017,"Renton School District","Hazelwood Elementary School",Student,Race,"Native Hawaiian or Other Pacific Islander",0,0.00,616
+2016-2017,"Renton School District","Hazelwood Elementary School",Student,Race,"Two or more races",68,0.11,616
+2016-2017,"Renton School District","Hazelwood Elementary School",Student,Race,White,310,0.50,616
+2016-2017,"Renton School District","Hazelwood Elementary School",Teacher,Gender,Female,34,0.87,39
+2016-2017,"Renton School District","Hazelwood Elementary School",Teacher,Gender,Male,5,0.13,39
+2016-2017,"Renton School District","Hazelwood Elementary School",Teacher,Race,Asian,2,0.05,39
+2016-2017,"Renton School District","Hazelwood Elementary School",Teacher,Race,"Black or African American",1,0.03,39
+2016-2017,"Renton School District","Hazelwood Elementary School",Teacher,Race,White,37,0.95,39
+2016-2017,"Renton School District","Hazen Senior High School",Student,Gender,Female,789,0.49,1624
+2016-2017,"Renton School District","Hazen Senior High School",Student,Gender,Male,835,0.51,1624
+2016-2017,"Renton School District","Hazen Senior High School",Student,Hispanic,Hispanic,360,0.22,1624
+2016-2017,"Renton School District","Hazen Senior High School",Student,Race,"American Indian or Alaska Native",12,0.01,1624
+2016-2017,"Renton School District","Hazen Senior High School",Student,Race,Asian,493,0.30,1624
+2016-2017,"Renton School District","Hazen Senior High School",Student,Race,"Black or African American",99,0.06,1624
+2016-2017,"Renton School District","Hazen Senior High School",Student,Race,"Native Hawaiian or Other Pacific Islander",4,0.00,1624
+2016-2017,"Renton School District","Hazen Senior High School",Student,Race,"Two or more races",63,0.04,1624
+2016-2017,"Renton School District","Hazen Senior High School",Student,Race,White,593,0.37,1624
+2016-2017,"Renton School District","Hazen Senior High School",Teacher,Gender,Female,51,0.65,78
+2016-2017,"Renton School District","Hazen Senior High School",Teacher,Gender,Male,27,0.35,78
+2016-2017,"Renton School District","Hazen Senior High School",Teacher,Hispanic,Hispanic,2,0.03,78
+2016-2017,"Renton School District","Hazen Senior High School",Teacher,Race,"American Indian or Alaska Native",3,0.04,78
+2016-2017,"Renton School District","Hazen Senior High School",Teacher,Race,Asian,5,0.06,78
+2016-2017,"Renton School District","Hazen Senior High School",Teacher,Race,"Black or African American",6,0.08,78
+2016-2017,"Renton School District","Hazen Senior High School",Teacher,Race,White,68,0.87,78
+2016-2017,"Renton School District","Highlands Elementary School",Student,Gender,Female,282,0.49,570
+2016-2017,"Renton School District","Highlands Elementary School",Student,Gender,Male,288,0.51,570
+2016-2017,"Renton School District","Highlands Elementary School",Student,Hispanic,Hispanic,280,0.49,570
+2016-2017,"Renton School District","Highlands Elementary School",Student,Race,"American Indian or Alaska Native",2,0.00,570
+2016-2017,"Renton School District","Highlands Elementary School",Student,Race,Asian,101,0.18,570
+2016-2017,"Renton School District","Highlands Elementary School",Student,Race,"Black or African American",56,0.10,570
+2016-2017,"Renton School District","Highlands Elementary School",Student,Race,"Native Hawaiian or Other Pacific Islander",3,0.01,570
+2016-2017,"Renton School District","Highlands Elementary School",Student,Race,"Two or more races",43,0.08,570
+2016-2017,"Renton School District","Highlands Elementary School",Student,Race,White,85,0.15,570
+2016-2017,"Renton School District","Highlands Elementary School",Teacher,Gender,Female,34,0.81,42
+2016-2017,"Renton School District","Highlands Elementary School",Teacher,Gender,Male,8,0.19,42
+2016-2017,"Renton School District","Highlands Elementary School",Teacher,Race,Asian,5,0.12,42
+2016-2017,"Renton School District","Highlands Elementary School",Teacher,Race,"Black or African American",2,0.05,42
+2016-2017,"Renton School District","Highlands Elementary School",Teacher,Race,White,35,0.83,42
+2016-2017,"Renton School District","Honey Dew Elementary",Student,Gender,Female,260,0.49,536
+2016-2017,"Renton School District","Honey Dew Elementary",Student,Gender,Male,276,0.51,536
+2016-2017,"Renton School District","Honey Dew Elementary",Student,Hispanic,Hispanic,263,0.49,536
+2016-2017,"Renton School District","Honey Dew Elementary",Student,Race,"American Indian or Alaska Native",0,0.00,536
+2016-2017,"Renton School District","Honey Dew Elementary",Student,Race,Asian,89,0.17,536
+2016-2017,"Renton School District","Honey Dew Elementary",Student,Race,"Black or African American",39,0.07,536
+2016-2017,"Renton School District","Honey Dew Elementary",Student,Race,"Native Hawaiian or Other Pacific Islander",1,0.00,536
+2016-2017,"Renton School District","Honey Dew Elementary",Student,Race,"Two or more races",25,0.05,536
+2016-2017,"Renton School District","Honey Dew Elementary",Student,Race,White,119,0.22,536
+2016-2017,"Renton School District","Honey Dew Elementary",Teacher,Gender,Female,35,0.92,38
+2016-2017,"Renton School District","Honey Dew Elementary",Teacher,Gender,Male,3,0.08,38
+2016-2017,"Renton School District","Honey Dew Elementary",Teacher,Hispanic,Hispanic,5,0.13,38
+2016-2017,"Renton School District","Honey Dew Elementary",Teacher,Race,Asian,3,0.08,38
+2016-2017,"Renton School District","Honey Dew Elementary",Teacher,Race,"Black or African American",1,0.03,38
+2016-2017,"Renton School District","Honey Dew Elementary",Teacher,Race,White,35,0.92,38
+2016-2017,"Renton School District","Kennydale Elementary School",Student,Gender,Female,296,0.48,613
+2016-2017,"Renton School District","Kennydale Elementary School",Student,Gender,Male,317,0.52,613
+2016-2017,"Renton School District","Kennydale Elementary School",Student,Hispanic,Hispanic,123,0.20,613
+2016-2017,"Renton School District","Kennydale Elementary School",Student,Race,"American Indian or Alaska Native",3,0.00,613
+2016-2017,"Renton School District","Kennydale Elementary School",Student,Race,Asian,174,0.28,613
+2016-2017,"Renton School District","Kennydale Elementary School",Student,Race,"Black or African American",30,0.05,613
+2016-2017,"Renton School District","Kennydale Elementary School",Student,Race,"Native Hawaiian or Other Pacific Islander",3,0.00,613
+2016-2017,"Renton School District","Kennydale Elementary School",Student,Race,"Two or more races",56,0.09,613
+2016-2017,"Renton School District","Kennydale Elementary School",Student,Race,White,224,0.37,613
+2016-2017,"Renton School District","Kennydale Elementary School",Teacher,Gender,Female,29,0.76,38
+2016-2017,"Renton School District","Kennydale Elementary School",Teacher,Gender,Male,9,0.24,38
+2016-2017,"Renton School District","Kennydale Elementary School",Teacher,Hispanic,Hispanic,1,0.03,38
+2016-2017,"Renton School District","Kennydale Elementary School",Teacher,Race,Asian,4,0.11,38
+2016-2017,"Renton School District","Kennydale Elementary School",Teacher,Race,"Black or African American",1,0.03,38
+2016-2017,"Renton School District","Kennydale Elementary School",Teacher,Race,White,34,0.89,38
+2016-2017,"Renton School District","Lakeridge Elementary School",Student,Gender,Female,221,0.56,397
+2016-2017,"Renton School District","Lakeridge Elementary School",Student,Gender,Male,176,0.44,397
+2016-2017,"Renton School District","Lakeridge Elementary School",Student,Hispanic,Hispanic,58,0.15,397
+2016-2017,"Renton School District","Lakeridge Elementary School",Student,Race,"American Indian or Alaska Native",4,0.01,397
+2016-2017,"Renton School District","Lakeridge Elementary School",Student,Race,Asian,50,0.13,397
+2016-2017,"Renton School District","Lakeridge Elementary School",Student,Race,"Black or African American",220,0.55,397
+2016-2017,"Renton School District","Lakeridge Elementary School",Student,Race,"Native Hawaiian or Other Pacific Islander",9,0.02,397
+2016-2017,"Renton School District","Lakeridge Elementary School",Student,Race,"Two or more races",25,0.06,397
+2016-2017,"Renton School District","Lakeridge Elementary School",Student,Race,White,31,0.08,397
+2016-2017,"Renton School District","Lakeridge Elementary School",Teacher,Gender,Female,26,0.87,30
+2016-2017,"Renton School District","Lakeridge Elementary School",Teacher,Gender,Male,4,0.13,30
+2016-2017,"Renton School District","Lakeridge Elementary School",Teacher,Hispanic,Hispanic,1,0.03,30
+2016-2017,"Renton School District","Lakeridge Elementary School",Teacher,Race,"American Indian or Alaska Native",1,0.03,30
+2016-2017,"Renton School District","Lakeridge Elementary School",Teacher,Race,Asian,5,0.17,30
+2016-2017,"Renton School District","Lakeridge Elementary School",Teacher,Race,"Black or African American",6,0.20,30
+2016-2017,"Renton School District","Lakeridge Elementary School",Teacher,Race,White,21,0.70,30
+2016-2017,"Renton School District","Lindbergh Senior High School",Student,Gender,Female,617,0.49,1265
+2016-2017,"Renton School District","Lindbergh Senior High School",Student,Gender,Male,648,0.51,1265
+2016-2017,"Renton School District","Lindbergh Senior High School",Student,Hispanic,Hispanic,242,0.19,1265
+2016-2017,"Renton School District","Lindbergh Senior High School",Student,Race,"American Indian or Alaska Native",12,0.01,1265
+2016-2017,"Renton School District","Lindbergh Senior High School",Student,Race,Asian,347,0.27,1265
+2016-2017,"Renton School District","Lindbergh Senior High School",Student,Race,"Black or African American",193,0.15,1265
+2016-2017,"Renton School District","Lindbergh Senior High School",Student,Race,"Native Hawaiian or Other Pacific Islander",9,0.01,1265
+2016-2017,"Renton School District","Lindbergh Senior High School",Student,Race,"Two or more races",57,0.05,1265
+2016-2017,"Renton School District","Lindbergh Senior High School",Student,Race,White,405,0.32,1265
+2016-2017,"Renton School District","Lindbergh Senior High School",Teacher,Gender,Female,38,0.59,64
+2016-2017,"Renton School District","Lindbergh Senior High School",Teacher,Gender,Male,26,0.41,64
+2016-2017,"Renton School District","Lindbergh Senior High School",Teacher,Hispanic,Hispanic,3,0.05,64
+2016-2017,"Renton School District","Lindbergh Senior High School",Teacher,Race,"American Indian or Alaska Native",2,0.03,64
+2016-2017,"Renton School District","Lindbergh Senior High School",Teacher,Race,Asian,7,0.11,64
+2016-2017,"Renton School District","Lindbergh Senior High School",Teacher,Race,"Black or African American",2,0.03,64
+2016-2017,"Renton School District","Lindbergh Senior High School",Teacher,Race,White,55,0.86,64
+2016-2017,"Renton School District","Maplewood Heights Elementary School",Student,Gender,Female,339,0.47,717
+2016-2017,"Renton School District","Maplewood Heights Elementary School",Student,Gender,Male,378,0.53,717
+2016-2017,"Renton School District","Maplewood Heights Elementary School",Student,Hispanic,Hispanic,145,0.20,717
+2016-2017,"Renton School District","Maplewood Heights Elementary School",Student,Race,"American Indian or Alaska Native",1,0.00,717
+2016-2017,"Renton School District","Maplewood Heights Elementary School",Student,Race,Asian,240,0.33,717
+2016-2017,"Renton School District","Maplewood Heights Elementary School",Student,Race,"Black or African American",23,0.03,717
+2016-2017,"Renton School District","Maplewood Heights Elementary School",Student,Race,"Native Hawaiian or Other Pacific Islander",3,0.00,717
+2016-2017,"Renton School District","Maplewood Heights Elementary School",Student,Race,"Two or more races",66,0.09,717
+2016-2017,"Renton School District","Maplewood Heights Elementary School",Student,Race,White,239,0.33,717
+2016-2017,"Renton School District","Maplewood Heights Elementary School",Teacher,Gender,Female,36,0.90,40
+2016-2017,"Renton School District","Maplewood Heights Elementary School",Teacher,Gender,Male,4,0.10,40
+2016-2017,"Renton School District","Maplewood Heights Elementary School",Teacher,Race,"American Indian or Alaska Native",2,0.05,40
+2016-2017,"Renton School District","Maplewood Heights Elementary School",Teacher,Race,Asian,5,0.13,40
+2016-2017,"Renton School District","Maplewood Heights Elementary School",Teacher,Race,"Black or African American",2,0.05,40
+2016-2017,"Renton School District","Maplewood Heights Elementary School",Teacher,Race,White,33,0.83,40
+2016-2017,"Renton School District","McKnight Middle School",Student,Gender,Female,628,0.49,1270
+2016-2017,"Renton School District","McKnight Middle School",Student,Gender,Male,642,0.51,1270
+2016-2017,"Renton School District","McKnight Middle School",Student,Hispanic,Hispanic,300,0.24,1270
+2016-2017,"Renton School District","McKnight Middle School",Student,Race,"American Indian or Alaska Native",4,0.00,1270
+2016-2017,"Renton School District","McKnight Middle School",Student,Race,Asian,376,0.30,1270
+2016-2017,"Renton School District","McKnight Middle School",Student,Race,"Black or African American",72,0.06,1270
+2016-2017,"Renton School District","McKnight Middle School",Student,Race,"Native Hawaiian or Other Pacific Islander",6,0.00,1270
+2016-2017,"Renton School District","McKnight Middle School",Student,Race,"Two or more races",71,0.06,1270
+2016-2017,"Renton School District","McKnight Middle School",Student,Race,White,441,0.35,1270
+2016-2017,"Renton School District","McKnight Middle School",Teacher,Gender,Female,35,0.58,60
+2016-2017,"Renton School District","McKnight Middle School",Teacher,Gender,Male,25,0.42,60
+2016-2017,"Renton School District","McKnight Middle School",Teacher,Hispanic,Hispanic,1,0.02,60
+2016-2017,"Renton School District","McKnight Middle School",Teacher,Race,"American Indian or Alaska Native",1,0.02,60
+2016-2017,"Renton School District","McKnight Middle School",Teacher,Race,Asian,4,0.07,60
+2016-2017,"Renton School District","McKnight Middle School",Teacher,Race,"Black or African American",3,0.05,60
+2016-2017,"Renton School District","McKnight Middle School",Teacher,Race,White,53,0.88,60
+2016-2017,"Renton School District","Meadow Crest Early Childhood Education Center",Student,Gender,Female,85,0.30,283
+2016-2017,"Renton School District","Meadow Crest Early Childhood Education Center",Student,Gender,Male,198,0.70,283
+2016-2017,"Renton School District","Meadow Crest Early Childhood Education Center",Student,Hispanic,Hispanic,73,0.26,283
+2016-2017,"Renton School District","Meadow Crest Early Childhood Education Center",Student,Race,"American Indian or Alaska Native",1,0.00,283
+2016-2017,"Renton School District","Meadow Crest Early Childhood Education Center",Student,Race,Asian,51,0.18,283
+2016-2017,"Renton School District","Meadow Crest Early Childhood Education Center",Student,Race,"Black or African American",42,0.15,283
+2016-2017,"Renton School District","Meadow Crest Early Childhood Education Center",Student,Race,"Native Hawaiian or Other Pacific Islander",2,0.01,283
+2016-2017,"Renton School District","Meadow Crest Early Childhood Education Center",Student,Race,"Two or more races",35,0.12,283
+2016-2017,"Renton School District","Meadow Crest Early Childhood Education Center",Student,Race,White,79,0.28,283
+2016-2017,"Renton School District","Nelsen Middle School",Student,Gender,Female,454,0.45,1002
+2016-2017,"Renton School District","Nelsen Middle School",Student,Gender,Male,548,0.55,1002
+2016-2017,"Renton School District","Nelsen Middle School",Student,Hispanic,Hispanic,191,0.19,1002
+2016-2017,"Renton School District","Nelsen Middle School",Student,Race,"American Indian or Alaska Native",2,0.00,1002
+2016-2017,"Renton School District","Nelsen Middle School",Student,Race,Asian,241,0.24,1002
+2016-2017,"Renton School District","Nelsen Middle School",Student,Race,"Black or African American",175,0.17,1002
+2016-2017,"Renton School District","Nelsen Middle School",Student,Race,"Native Hawaiian or Other Pacific Islander",16,0.02,1002
+2016-2017,"Renton School District","Nelsen Middle School",Student,Race,"Two or more races",83,0.08,1002
+2016-2017,"Renton School District","Nelsen Middle School",Student,Race,White,294,0.29,1002
+2016-2017,"Renton School District","Nelsen Middle School",Teacher,Gender,Female,43,0.73,59
+2016-2017,"Renton School District","Nelsen Middle School",Teacher,Gender,Male,16,0.27,59
+2016-2017,"Renton School District","Nelsen Middle School",Teacher,Hispanic,Hispanic,2,0.03,59
+2016-2017,"Renton School District","Nelsen Middle School",Teacher,Race,"American Indian or Alaska Native",3,0.05,59
+2016-2017,"Renton School District","Nelsen Middle School",Teacher,Race,Asian,3,0.05,59
+2016-2017,"Renton School District","Nelsen Middle School",Teacher,Race,"Black or African American",2,0.03,59
+2016-2017,"Renton School District","Nelsen Middle School",Teacher,Race,White,53,0.90,59
+2016-2017,"Renton School District","Open Door Youth Reengagement Renton",Student,Gender,Female,13,0.41,32
+2016-2017,"Renton School District","Open Door Youth Reengagement Renton",Student,Gender,Male,19,0.59,32
+2016-2017,"Renton School District","Open Door Youth Reengagement Renton",Student,Hispanic,Hispanic,3,0.09,32
+2016-2017,"Renton School District","Open Door Youth Reengagement Renton",Student,Race,"American Indian or Alaska Native",2,0.06,32
+2016-2017,"Renton School District","Open Door Youth Reengagement Renton",Student,Race,Asian,1,0.03,32
+2016-2017,"Renton School District","Open Door Youth Reengagement Renton",Student,Race,"Black or African American",10,0.31,32
+2016-2017,"Renton School District","Open Door Youth Reengagement Renton",Student,Race,"Native Hawaiian or Other Pacific Islander",0,0.00,32
+2016-2017,"Renton School District","Open Door Youth Reengagement Renton",Student,Race,"Two or more races",3,0.09,32
+2016-2017,"Renton School District","Open Door Youth Reengagement Renton",Student,Race,White,13,0.41,32
+2016-2017,"Renton School District","Out Of District Facility",Student,Gender,Female,2,0.15,13
+2016-2017,"Renton School District","Out Of District Facility",Student,Gender,Male,11,0.85,13
+2016-2017,"Renton School District","Out Of District Facility",Student,Hispanic,Hispanic,5,0.38,13
+2016-2017,"Renton School District","Out Of District Facility",Student,Race,"American Indian or Alaska Native",0,0.00,13
+2016-2017,"Renton School District","Out Of District Facility",Student,Race,Asian,0,0.00,13
+2016-2017,"Renton School District","Out Of District Facility",Student,Race,"Black or African American",3,0.23,13
+2016-2017,"Renton School District","Out Of District Facility",Student,Race,"Native Hawaiian or Other Pacific Islander",0,0.00,13
+2016-2017,"Renton School District","Out Of District Facility",Student,Race,"Two or more races",1,0.08,13
+2016-2017,"Renton School District","Out Of District Facility",Student,Race,White,4,0.31,13
+2016-2017,"Renton School District","Renton Academy",Student,Gender,Female,7,0.16,43
+2016-2017,"Renton School District","Renton Academy",Student,Gender,Male,36,0.84,43
+2016-2017,"Renton School District","Renton Academy",Student,Hispanic,Hispanic,7,0.16,43
+2016-2017,"Renton School District","Renton Academy",Student,Race,"American Indian or Alaska Native",2,0.05,43
+2016-2017,"Renton School District","Renton Academy",Student,Race,Asian,2,0.05,43
+2016-2017,"Renton School District","Renton Academy",Student,Race,"Black or African American",17,0.40,43
+2016-2017,"Renton School District","Renton Academy",Student,Race,"Native Hawaiian or Other Pacific Islander",0,0.00,43
+2016-2017,"Renton School District","Renton Academy",Student,Race,"Two or more races",2,0.05,43
+2016-2017,"Renton School District","Renton Academy",Student,Race,White,13,0.30,43
+2016-2017,"Renton School District","Renton Academy",Teacher,Gender,Female,4,0.57,7
+2016-2017,"Renton School District","Renton Academy",Teacher,Gender,Male,3,0.43,7
+2016-2017,"Renton School District","Renton Academy",Teacher,Race,"American Indian or Alaska Native",1,0.14,7
+2016-2017,"Renton School District","Renton Academy",Teacher,Race,White,7,1.00,7
+2016-2017,"Renton School District","Renton Park Elementary School",Student,Gender,Female,246,0.53,467
+2016-2017,"Renton School District","Renton Park Elementary School",Student,Gender,Male,221,0.47,467
+2016-2017,"Renton School District","Renton Park Elementary School",Student,Hispanic,Hispanic,111,0.24,467
+2016-2017,"Renton School District","Renton Park Elementary School",Student,Race,"American Indian or Alaska Native",2,0.00,467
+2016-2017,"Renton School District","Renton Park Elementary School",Student,Race,Asian,58,0.12,467
+2016-2017,"Renton School District","Renton Park Elementary School",Student,Race,"Black or African American",91,0.19,467
+2016-2017,"Renton School District","Renton Park Elementary School",Student,Race,"Native Hawaiian or Other Pacific Islander",14,0.03,467
+2016-2017,"Renton School District","Renton Park Elementary School",Student,Race,"Two or more races",50,0.11,467
+2016-2017,"Renton School District","Renton Park Elementary School",Student,Race,White,141,0.30,467
+2016-2017,"Renton School District","Renton Park Elementary School",Teacher,Gender,Female,29,0.85,34
+2016-2017,"Renton School District","Renton Park Elementary School",Teacher,Gender,Male,5,0.15,34
+2016-2017,"Renton School District","Renton Park Elementary School",Teacher,Hispanic,Hispanic,2,0.06,34
+2016-2017,"Renton School District","Renton Park Elementary School",Teacher,Race,"American Indian or Alaska Native",1,0.03,34
+2016-2017,"Renton School District","Renton Park Elementary School",Teacher,Race,Asian,3,0.09,34
+2016-2017,"Renton School District","Renton Park Elementary School",Teacher,Race,"Black or African American",1,0.03,34
+2016-2017,"Renton School District","Renton Park Elementary School",Teacher,Race,White,31,0.91,34
+2016-2017,"Renton School District","Renton Senior High School",Student,Gender,Female,640,0.49,1299
+2016-2017,"Renton School District","Renton Senior High School",Student,Gender,Male,659,0.51,1299
+2016-2017,"Renton School District","Renton Senior High School",Student,Hispanic,Hispanic,294,0.23,1299
+2016-2017,"Renton School District","Renton Senior High School",Student,Race,"American Indian or Alaska Native",5,0.00,1299
+2016-2017,"Renton School District","Renton Senior High School",Student,Race,Asian,409,0.31,1299
+2016-2017,"Renton School District","Renton Senior High School",Student,Race,"Black or African American",367,0.28,1299
+2016-2017,"Renton School District","Renton Senior High School",Student,Race,"Native Hawaiian or Other Pacific Islander",15,0.01,1299
+2016-2017,"Renton School District","Renton Senior High School",Student,Race,"Two or more races",71,0.05,1299
+2016-2017,"Renton School District","Renton Senior High School",Student,Race,White,138,0.11,1299
+2016-2017,"Renton School District","Renton Senior High School",Teacher,Gender,Female,48,0.66,73
+2016-2017,"Renton School District","Renton Senior High School",Teacher,Gender,Male,25,0.34,73
+2016-2017,"Renton School District","Renton Senior High School",Teacher,Hispanic,Hispanic,8,0.11,73
+2016-2017,"Renton School District","Renton Senior High School",Teacher,Race,"American Indian or Alaska Native",3,0.04,73
+2016-2017,"Renton School District","Renton Senior High School",Teacher,Race,Asian,5,0.07,73
+2016-2017,"Renton School District","Renton Senior High School",Teacher,Race,"Black or African American",8,0.11,73
+2016-2017,"Renton School District","Renton Senior High School",Teacher,Race,White,63,0.86,73
+2016-2017,"Renton School District","Sierra Heights Elementary School",Student,Gender,Female,300,0.49,617
+2016-2017,"Renton School District","Sierra Heights Elementary School",Student,Gender,Male,317,0.51,617
+2016-2017,"Renton School District","Sierra Heights Elementary School",Student,Hispanic,Hispanic,162,0.26,617
+2016-2017,"Renton School District","Sierra Heights Elementary School",Student,Race,"American Indian or Alaska Native",1,0.00,617
+2016-2017,"Renton School District","Sierra Heights Elementary School",Student,Race,Asian,151,0.24,617
+2016-2017,"Renton School District","Sierra Heights Elementary School",Student,Race,"Black or African American",29,0.05,617
+2016-2017,"Renton School District","Sierra Heights Elementary School",Student,Race,"Native Hawaiian or Other Pacific Islander",2,0.00,617
+2016-2017,"Renton School District","Sierra Heights Elementary School",Student,Race,"Two or more races",72,0.12,617
+2016-2017,"Renton School District","Sierra Heights Elementary School",Student,Race,White,200,0.32,617
+2016-2017,"Renton School District","Sierra Heights Elementary School",Teacher,Gender,Female,31,0.86,36
+2016-2017,"Renton School District","Sierra Heights Elementary School",Teacher,Gender,Male,5,0.14,36
+2016-2017,"Renton School District","Sierra Heights Elementary School",Teacher,Hispanic,Hispanic,2,0.06,36
+2016-2017,"Renton School District","Sierra Heights Elementary School",Teacher,Race,"American Indian or Alaska Native",2,0.06,36
+2016-2017,"Renton School District","Sierra Heights Elementary School",Teacher,Race,Asian,5,0.14,36
+2016-2017,"Renton School District","Sierra Heights Elementary School",Teacher,Race,White,30,0.83,36
+2016-2017,"Renton School District","Talbot Hill Elementary School",Student,Gender,Female,244,0.46,531
+2016-2017,"Renton School District","Talbot Hill Elementary School",Student,Gender,Male,287,0.54,531
+2016-2017,"Renton School District","Talbot Hill Elementary School",Student,Hispanic,Hispanic,81,0.15,531
+2016-2017,"Renton School District","Talbot Hill Elementary School",Student,Race,"American Indian or Alaska Native",3,0.01,531
+2016-2017,"Renton School District","Talbot Hill Elementary School",Student,Race,Asian,168,0.32,531
+2016-2017,"Renton School District","Talbot Hill Elementary School",Student,Race,"Black or African American",83,0.16,531
+2016-2017,"Renton School District","Talbot Hill Elementary School",Student,Race,"Native Hawaiian or Other Pacific Islander",6,0.01,531
+2016-2017,"Renton School District","Talbot Hill Elementary School",Student,Race,"Two or more races",79,0.15,531
+2016-2017,"Renton School District","Talbot Hill Elementary School",Student,Race,White,111,0.21,531
+2016-2017,"Renton School District","Talbot Hill Elementary School",Teacher,Gender,Female,26,0.81,32
+2016-2017,"Renton School District","Talbot Hill Elementary School",Teacher,Gender,Male,6,0.19,32
+2016-2017,"Renton School District","Talbot Hill Elementary School",Teacher,Hispanic,Hispanic,1,0.03,32
+2016-2017,"Renton School District","Talbot Hill Elementary School",Teacher,Race,"American Indian or Alaska Native",1,0.03,32
+2016-2017,"Renton School District","Talbot Hill Elementary School",Teacher,Race,Asian,3,0.09,32
+2016-2017,"Renton School District","Talbot Hill Elementary School",Teacher,Race,"Black or African American",2,0.06,32
+2016-2017,"Renton School District","Talbot Hill Elementary School",Teacher,Race,White,29,0.91,32
+2016-2017,"Renton School District","Talley High School",Student,Gender,Female,149,0.48,308
+2016-2017,"Renton School District","Talley High School",Student,Gender,Male,159,0.52,308
+2016-2017,"Renton School District","Talley High School",Student,Hispanic,Hispanic,89,0.29,308
+2016-2017,"Renton School District","Talley High School",Student,Race,"American Indian or Alaska Native",4,0.01,308
+2016-2017,"Renton School District","Talley High School",Student,Race,Asian,26,0.08,308
+2016-2017,"Renton School District","Talley High School",Student,Race,"Black or African American",72,0.23,308
+2016-2017,"Renton School District","Talley High School",Student,Race,"Native Hawaiian or Other Pacific Islander",1,0.00,308
+2016-2017,"Renton School District","Talley High School",Student,Race,"Two or more races",31,0.10,308
+2016-2017,"Renton School District","Talley High School",Student,Race,White,85,0.28,308
+2016-2017,"Renton School District","Talley High School",Teacher,Gender,Female,11,0.55,20
+2016-2017,"Renton School District","Talley High School",Teacher,Gender,Male,9,0.45,20
+2016-2017,"Renton School District","Talley High School",Teacher,Race,"American Indian or Alaska Native",2,0.10,20
+2016-2017,"Renton School District","Talley High School",Teacher,Race,Asian,2,0.10,20
+2016-2017,"Renton School District","Talley High School",Teacher,Race,"Black or African American",1,0.05,20
+2016-2017,"Renton School District","Talley High School",Teacher,Race,White,17,0.85,20
+2016-2017,"Renton School District","Tiffany Park Elementary School",Student,Gender,Female,207,0.47,439
+2016-2017,"Renton School District","Tiffany Park Elementary School",Student,Gender,Male,232,0.53,439
+2016-2017,"Renton School District","Tiffany Park Elementary School",Student,Hispanic,Hispanic,98,0.22,439
+2016-2017,"Renton School District","Tiffany Park Elementary School",Student,Race,"American Indian or Alaska Native",0,0.00,439
+2016-2017,"Renton School District","Tiffany Park Elementary School",Student,Race,Asian,75,0.17,439
+2016-2017,"Renton School District","Tiffany Park Elementary School",Student,Race,"Black or African American",77,0.18,439
+2016-2017,"Renton School District","Tiffany Park Elementary School",Student,Race,"Native Hawaiian or Other Pacific Islander",1,0.00,439
+2016-2017,"Renton School District","Tiffany Park Elementary School",Student,Race,"Two or more races",41,0.09,439
+2016-2017,"Renton School District","Tiffany Park Elementary School",Student,Race,White,147,0.33,439
+2016-2017,"Renton School District","Tiffany Park Elementary School",Teacher,Gender,Female,27,0.79,34
+2016-2017,"Renton School District","Tiffany Park Elementary School",Teacher,Gender,Male,7,0.21,34
+2016-2017,"Renton School District","Tiffany Park Elementary School",Teacher,Race,Asian,3,0.09,34
+2016-2017,"Renton School District","Tiffany Park Elementary School",Teacher,Race,"Black or African American",1,0.03,34
+2016-2017,"Renton School District","Tiffany Park Elementary School",Teacher,Race,"Native Hawaiian or Other Pacific Islander",1,0.03,34
+2016-2017,"Renton School District","Tiffany Park Elementary School",Teacher,Race,White,30,0.88,34

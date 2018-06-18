@@ -1,0 +1,52 @@
+name,district,role,type,demographic,demographic_count,percent,total
+2016-2017,"Auburn School District",Student,Gender,Female,7931,0.49,16134
+2016-2017,"Auburn School District",Student,Gender,Male,8203,0.51,16134
+2016-2017,"Auburn School District",Student,Hispanic,Hispanic,4601,0.29,16134
+2016-2017,"Auburn School District",Student,Race,"American Indian or Alaska Native",211,0.01,16134
+2016-2017,"Auburn School District",Student,Race,Asian,1366,0.08,16134
+2016-2017,"Auburn School District",Student,Race,"Black or African American",1168,0.07,16134
+2016-2017,"Auburn School District",Student,Race,"Native Hawaiian or Other Pacific Islander",575,0.04,16134
+2016-2017,"Auburn School District",Student,Race,"Two or more races",1564,0.10,16134
+2016-2017,"Auburn School District",Student,Race,White,6649,0.41,16134
+2016-2017,"Auburn School District",Teacher,Gender,Female,705,0.73,964
+2016-2017,"Auburn School District",Teacher,Gender,Male,259,0.27,964
+2016-2017,"Auburn School District",Teacher,Hispanic,Hispanic,29,0.03,964
+2016-2017,"Auburn School District",Teacher,Race,"American Indian or Alaska Native",16,0.02,964
+2016-2017,"Auburn School District",Teacher,Race,Asian,27,0.03,964
+2016-2017,"Auburn School District",Teacher,Race,"Black or African American",29,0.03,964
+2016-2017,"Auburn School District",Teacher,Race,"Native Hawaiian or Other Pacific Islander",8,0.01,964
+2016-2017,"Auburn School District",Teacher,Race,White,891,0.92,964
+2016-2017,"Kent School District",Student,Gender,Female,13396,0.48,27841
+2016-2017,"Kent School District",Student,Gender,Male,14445,0.52,27841
+2016-2017,"Kent School District",Student,Hispanic,Hispanic,6247,0.22,27841
+2016-2017,"Kent School District",Student,Race,"American Indian or Alaska Native",111,0.00,27841
+2016-2017,"Kent School District",Student,Race,Asian,5170,0.19,27841
+2016-2017,"Kent School District",Student,Race,"Black or African American",3253,0.12,27841
+2016-2017,"Kent School District",Student,Race,"Native Hawaiian or Other Pacific Islander",741,0.03,27841
+2016-2017,"Kent School District",Student,Race,"Two or more races",2654,0.10,27841
+2016-2017,"Kent School District",Student,Race,White,9665,0.35,27841
+2016-2017,"Kent School District",Teacher,Gender,Female,1215,0.75,1613
+2016-2017,"Kent School District",Teacher,Gender,Male,398,0.25,1613
+2016-2017,"Kent School District",Teacher,Hispanic,Hispanic,58,0.04,1613
+2016-2017,"Kent School District",Teacher,Race,"American Indian or Alaska Native",27,0.02,1613
+2016-2017,"Kent School District",Teacher,Race,Asian,118,0.07,1613
+2016-2017,"Kent School District",Teacher,Race,"Black or African American",68,0.04,1613
+2016-2017,"Kent School District",Teacher,Race,"Native Hawaiian or Other Pacific Islander",19,0.01,1613
+2016-2017,"Kent School District",Teacher,Race,White,1451,0.90,1613
+2016-2017,"Renton School District",Student,Gender,Female,7691,0.49,15804
+2016-2017,"Renton School District",Student,Gender,Male,8113,0.51,15804
+2016-2017,"Renton School District",Student,Hispanic,Hispanic,3684,0.23,15804
+2016-2017,"Renton School District",Student,Race,"American Indian or Alaska Native",89,0.01,15804
+2016-2017,"Renton School District",Student,Race,Asian,3970,0.25,15804
+2016-2017,"Renton School District",Student,Race,"Black or African American",2433,0.15,15804
+2016-2017,"Renton School District",Student,Race,"Native Hawaiian or Other Pacific Islander",143,0.01,15804
+2016-2017,"Renton School District",Student,Race,"Two or more races",1278,0.08,15804
+2016-2017,"Renton School District",Student,Race,White,4207,0.27,15804
+2016-2017,"Renton School District",Teacher,Gender,Female,704,0.75,935
+2016-2017,"Renton School District",Teacher,Gender,Male,231,0.25,935
+2016-2017,"Renton School District",Teacher,Hispanic,Hispanic,33,0.04,935
+2016-2017,"Renton School District",Teacher,Race,"American Indian or Alaska Native",27,0.03,935
+2016-2017,"Renton School District",Teacher,Race,Asian,86,0.09,935
+2016-2017,"Renton School District",Teacher,Race,"Black or African American",51,0.05,935
+2016-2017,"Renton School District",Teacher,Race,"Native Hawaiian or Other Pacific Islander",2,0.00,935
+2016-2017,"Renton School District",Teacher,Race,White,815,0.87,935
