@@ -216,3 +216,65 @@ INNER JOIN school_year_dim ON students.SchoolYear = school_year_dim.abbreviated
 INNER JOIN school_dim ON students.BuildingNumber = school_dim.school_code 
 ON DUPLICATE KEY UPDATE total_students = TotalEnrollment;
 
+-- Create views to facilitate final reporting queries
+
+DROP VIEW IF EXISTS demographics_by_school;
+CREATE VIEW demographics_by_school AS
+SELECT school_year_dim.name as school_year, school_id, school_dim.district, school_dim.name as school,
+  role_type_dim.name as role, demographic_dim.type, demographic_dim.name as demographic, 
+  SUM(count) as demographic_count
+  FROM demographic_fact
+  INNER JOIN school_year_dim ON school_year_dim.id = demographic_fact.school_year_id
+  INNER JOIN school_dim ON school_dim.id = demographic_fact.school_id
+  INNER JOIN role_type_dim ON role_type_dim.id = role_type_id
+  INNER JOIN demographic_dim ON demographic_dim.id = demographic_id
+  GROUP BY
+  school_year_dim.name, school_dim.district, school_dim.name, role_type_dim.name, demographic_dim.type, demographic_dim.name;
+
+DROP VIEW IF EXISTS demographics_by_district;
+CREATE VIEW demographics_by_district AS
+SELECT school_year_dim.name as school_year, school_dim.district,
+  role_type_dim.name as role, demographic_dim.type, demographic_dim.name as demographic, 
+  SUM(count) as demographic_count
+  FROM demographic_fact
+  INNER JOIN school_year_dim ON school_year_dim.id = demographic_fact.school_year_id
+  INNER JOIN school_dim ON school_dim.id = demographic_fact.school_id
+  INNER JOIN role_type_dim ON role_type_dim.id = role_type_id
+  INNER JOIN demographic_dim ON demographic_dim.id = demographic_id
+  GROUP BY
+  school_year_dim.name, school_dim.district, role_type_dim.name, demographic_dim.type, demographic_dim.name;
+
+DROP VIEW IF EXISTS school_counts;
+CREATE VIEW school_counts AS
+SELECT school_dim.id as school_id, school_dim.name, total_teachers, total_students
+FROM school_totals_fact
+INNER JOIN school_dim ON school_dim.id = school_totals_fact.school_id;
+
+DROP VIEW IF EXISTS district_counts;
+CREATE VIEW district_counts AS
+SELECT school_dim.district, sum(total_teachers) as district_teachers, sum(total_students) as district_students
+FROM school_totals_fact
+INNER JOIN school_dim ON school_dim.id = school_totals_fact.school_id
+GROUP BY school_dim.district;
+
+-- note: there exist schools with the same name, so we join by school_dim.id
+DROP VIEW IF EXISTS summary_demographics_by_school;
+CREATE VIEW summary_demographics_by_school AS
+SELECT demographics_by_school.school_year, demographics_by_school.district, school,
+role, type, demographic, demographic_count,
+ROUND(demographic_count /
+CASE WHEN role = 'Teacher' THEN school_counts.total_teachers ELSE school_counts.total_students END, 2) AS percent,
+CASE WHEN role = 'Teacher' THEN school_counts.total_teachers ELSE school_counts.total_students END AS total
+FROM demographics_by_school
+INNER JOIN school_counts
+ON demographics_by_school.school_id = school_counts.school_id;
+
+DROP VIEW IF EXISTS summary_demographics_by_district;
+CREATE VIEW summary_demographics_by_district AS
+SELECT demographics_by_district.school_year, demographics_by_district.district, role, type, demographic, demographic_count,
+ROUND(demographic_count /
+CASE WHEN role = 'Teacher' THEN district_counts.district_teachers ELSE district_counts.district_students END, 2) AS percent,
+CASE WHEN role = 'Teacher' THEN district_counts.district_teachers ELSE district_counts.district_students END AS total
+FROM demographics_by_district
+INNER JOIN district_counts
+ON demographics_by_district.district = district_counts.district;

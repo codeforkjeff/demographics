@@ -36,20 +36,19 @@ Linux, Java, MySQL, MySQL Workbench, LibreOffice
 
 ## Understanding the Data
 
-personnel table: 564281 records 
+personnel table: 564281 records - each row represents an assignment at a school
 
-- each row represents an assignment at a school
 - examined original form and handbook for S-275 form to understand fields and codes
 
  - `droot` column - duty code; filter on this to get only teachers (not all personnel are teachers)
  - `race` column - multivalued
  - `sex` column
  - `hispanic` column
- - `bldgn` - school code
+ - `bldgn` column - school code
 
 students table: 2445 records - each row represents a school
 
-- counts are stored column-per-demographic: NumberAsian, NumberBlack, etc.
+- counts are stored column-per-demographic: `NumberAsian`, `NumberBlack`, etc.
 - `BuildingNumber` column - school code
 
 General notes:
@@ -78,67 +77,31 @@ cat etl.sql | mysql demographics
 
 ## Reports
 
+Several views facilitate reporting. See the `etl.sql` file for their definitions.
+
+- demographics_by_school
+- demographics_by_district
+- school_counts
+- district_counts
+- summary_demographics_by_school - joins demographics_by_school w/ school_counts
+- summary_demographics_by_district - joins demographics_by_district w/ district_counts
+
 Demographics report by school (by_school.csv):
 
 ```
--- join 2 tables: the first is grouped by demographic; that joins to a table of per-school totals
--- note: there exist schools with the same name, so we join by school_dim.id
-SELECT demographics.name, demographics.district, school, role, type, demographic, demographic_count,
-ROUND(demographic_count /
-CASE WHEN role = 'Teacher' THEN school_counts.total_teachers ELSE school_counts.total_students END, 2) AS percent,
-CASE WHEN role = 'Teacher' THEN school_counts.total_teachers ELSE school_counts.total_students END AS total
-FROM
-  (SELECT school_year_dim.name, school_id, school_dim.district, school_dim.name as school,
-  role_type_dim.name as role, demographic_dim.type, demographic_dim.name as demographic, 
-  SUM(count) as demographic_count
-  FROM demographic_fact
-  INNER JOIN school_year_dim ON school_year_dim.id = demographic_fact.school_year_id
-  INNER JOIN school_dim ON school_dim.id = demographic_fact.school_id
-  INNER JOIN role_type_dim ON role_type_dim.id = role_type_id
-  INNER JOIN demographic_dim ON demographic_dim.id = demographic_id
-  WHERE
-  school_year_dim.name = '2016-2017'
-  AND school_dim.district IN ('Kent School District', 'Auburn School District', 'Renton School District')
-  GROUP BY
-  school_year_dim.name, school_dim.district, school_dim.name, role_type_dim.name, demographic_dim.type, demographic_dim.name)
-  demographics
-INNER JOIN
-  (select school_dim.id, school_dim.name, total_teachers, total_students
-  FROM school_totals_fact
-  inner join school_dim ON school_dim.id = school_totals_fact.school_id) school_counts
-ON demographics.school_id = school_counts.id
+SELECT * FROM summary_demographics_by_school
+WHERE school_year = '2016-2017'
+AND district IN ('Kent School District', 'Auburn School District', 'Renton School District')
+ORDER BY district, school, role, type, demographic;
 ```
 
 Demographics report by district (by_district.csv):
 
 ```
--- join 2 tables: the first is grouped by demographic; that joins to a table of per-district totals
-SELECT name, demographics.district, role, type, demographic, demographic_count,
-ROUND(demographic_count /
-CASE WHEN role = 'Teacher' THEN district_counts.district_teachers ELSE district_counts.district_students END, 2) AS percent,
-CASE WHEN role = 'Teacher' THEN district_counts.district_teachers ELSE district_counts.district_students END AS total
-FROM
-  (SELECT school_year_dim.name, school_dim.district,
-  role_type_dim.name as role, demographic_dim.type, demographic_dim.name as demographic, 
-  SUM(count) as demographic_count
-  FROM demographic_fact
-  INNER JOIN school_year_dim ON school_year_dim.id = demographic_fact.school_year_id
-  INNER JOIN school_dim ON school_dim.id = demographic_fact.school_id
-  INNER JOIN role_type_dim ON role_type_dim.id = role_type_id
-  INNER JOIN demographic_dim ON demographic_dim.id = demographic_id
-  WHERE
-  school_year_dim.name = '2016-2017'
-  AND school_dim.district IN ('Kent School District', 'Auburn School District', 'Renton School District')
-  GROUP BY
-  school_year_dim.name, school_dim.district, role_type_dim.name, demographic_dim.type, demographic_dim.name)
-  demographics
-INNER JOIN
-  (select school_dim.district, sum(total_teachers) as district_teachers, sum(total_students) as district_students
-  FROM school_totals_fact
-  inner join school_dim ON school_dim.id = school_totals_fact.school_id
-  group by school_dim.district)
-  district_counts
-ON demographics.district = district_counts.district
+SELECT * FROM summary_demographics_by_district
+WHERE school_year = '2016-2017'
+AND district IN ('Kent School District', 'Auburn School District', 'Renton School District')
+ORDER BY district, role, type, demographic;
 ```
 
 ## Future Updates / Other Considerations
